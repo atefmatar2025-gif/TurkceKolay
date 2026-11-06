@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Speech bubble with a dotted "i" and a dotless "ı": the heart of Turkish spelling. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,32 L74,32 Q80,32 80,38 L80,64 Q80,70 74,70 L50,70 L40,79 L41,70 L34,70 Q28,70 28,64 L28,38 Q28,32 34,32 Z" />
+    <!-- dotted i -->
+    <path
+        android:fillColor="#F2994A"
+        android:pathData="M43,41 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0" />
+    <path
+        android:fillColor="#1D3E6E"
+        android:pathData="M40,48 L46,48 L46,63 L40,63 Z" />
+    <!-- dotless ı -->
+    <path
+        android:fillColor="#1D3E6E"
+        android:pathData="M62,48 L68,48 L68,63 L62,63 Z" />
+</vector>

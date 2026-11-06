@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Türkçe Kolay</string>
+    <string name="reminder_channel_name">تذكير المراجعة اليومية</string>
+    <string name="reminder_title">حان وقت مراجعتك 🌟</string>
+    <string name="reminder_text">لديك كلمات تنتظر المراجعة. دقائق قليلة تكفي!</string>
+</resources>

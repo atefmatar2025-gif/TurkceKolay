@@ -1,0 +1,385 @@
+{
+ "contentVersion": 1,
+ "conversations": [
+  {
+   "id": "c_greeting",
+   "titleAr": "التعارف",
+   "image": "emoji:🤝",
+   "turns": [
+    {
+     "tr": "Merhaba! Nasılsınız?",
+     "ar": "مرحبًا! كيف حالك؟",
+     "hintAr": "يسألك عن حالك.",
+     "choices": [
+      {
+       "tr": "İyiyim, teşekkürler. Siz nasılsınız?",
+       "ar": "أنا بخير، شكرًا. وأنت؟",
+       "correct": true
+      },
+      {
+       "tr": "Hoşça kalın.",
+       "ar": "مع السلامة.",
+       "correct": false
+      },
+      {
+       "tr": "Bir çay, lütfen.",
+       "ar": "شاي واحد، من فضلك.",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "tr": "Ben de iyiyim. Adınız ne?",
+     "ar": "وأنا بخير أيضًا. ما اسمك؟",
+     "hintAr": "يسألك عن اسمك.",
+     "choices": [
+      {
+       "tr": "Benim adım Ahmet.",
+       "ar": "اسمي أحمد.",
+       "correct": true
+      },
+      {
+       "tr": "Saat üç.",
+       "ar": "الساعة الثالثة.",
+       "correct": false
+      },
+      {
+       "tr": "Evet, pahalı.",
+       "ar": "نعم، غالٍ.",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "tr": "Memnun oldum Ahmet. Nerelisiniz?",
+     "ar": "تشرفت يا أحمد. من أين أنت؟",
+     "hintAr": "يسألك من أي بلد أنت.",
+     "choices": [
+      {
+       "tr": "Ben Suriyeliyim.",
+       "ar": "أنا سوري.",
+       "correct": true
+      },
+      {
+       "tr": "Ben yorgunum.",
+       "ar": "أنا متعب.",
+       "correct": false
+      },
+      {
+       "tr": "Banyo nerede?",
+       "ar": "أين الحمام؟",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "tr": "Hoş geldiniz!",
+     "ar": "أهلًا وسهلًا!",
+     "hintAr": "هناك رد تقليدي على الترحيب.",
+     "choices": [
+      {
+       "tr": "Hoş bulduk!",
+       "ar": "أهلًا بك (الرد المعتاد)!",
+       "correct": true
+      },
+      {
+       "tr": "Afiyet olsun!",
+       "ar": "بالهناء والشفاء!",
+       "correct": false
+      },
+      {
+       "tr": "Hayır.",
+       "ar": "لا.",
+       "correct": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c_cafe",
+   "titleAr": "في المقهى",
+   "image": "emoji:☕",
+   "turns": [
+    {
+     "tr": "Hoş geldiniz! Ne alırsınız?",
+     "ar": "أهلًا بك! ماذا تطلب؟",
+     "hintAr": "النادل يسأل عن طلبك.",
+     "choices": [
+      {
+       "tr": "Bir çay, lütfen.",
+       "ar": "شاي واحد، من فضلك.",
+       "correct": true
+      },
+      {
+       "tr": "Benim adım Ali.",
+       "ar": "اسمي علي.",
+       "correct": false
+      },
+      {
+       "tr": "Görüşürüz.",
+       "ar": "إلى اللقاء.",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "tr": "Şekerli mi?",
+     "ar": "بالسكر؟",
+     "hintAr": "يسأل إن كنت تريد السكر.",
+     "choices": [
+      {
+       "tr": "Evet, şekerli lütfen.",
+       "ar": "نعم، بالسكر من فضلك.",
+       "correct": true
+      },
+      {
+       "tr": "Sağa dönün.",
+       "ar": "انعطف يمينًا.",
+       "correct": false
+      },
+      {
+       "tr": "Ben öğrenciyim.",
+       "ar": "أنا طالب.",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "tr": "Başka bir şey?",
+     "ar": "شيء آخر؟",
+     "hintAr": "يسأل إن كنت تريد شيئًا آخر.",
+     "choices": [
+      {
+       "tr": "Hayır, teşekkürler. Hesap, lütfen.",
+       "ar": "لا، شكرًا. الحساب من فضلك.",
+       "correct": true
+      },
+      {
+       "tr": "Kar yağıyor.",
+       "ar": "الثلج يتساقط.",
+       "correct": false
+      },
+      {
+       "tr": "Merhaba.",
+       "ar": "مرحبًا.",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "tr": "Toplam otuz lira.",
+     "ar": "المجموع ثلاثون ليرة.",
+     "hintAr": "أخبرك بالسعر. ماذا تقول وأنت تعطيه المال؟",
+     "choices": [
+      {
+       "tr": "Buyurun.",
+       "ar": "تفضّل.",
+       "correct": true
+      },
+      {
+       "tr": "Gece uyuyorum.",
+       "ar": "أنام في الليل.",
+       "correct": false
+      },
+      {
+       "tr": "Yarın görüşürüz.",
+       "ar": "نلتقي غدًا.",
+       "correct": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c_directions",
+   "titleAr": "السؤال عن الطريق",
+   "image": "emoji:🧭",
+   "turns": [
+    {
+     "tr": "Buyurun, yardım edebilir miyim?",
+     "ar": "تفضّل، هل أستطيع مساعدتك؟",
+     "hintAr": "اسأل عن مكان الصيدلية.",
+     "choices": [
+      {
+       "tr": "Affedersiniz, eczane nerede?",
+       "ar": "المعذرة، أين الصيدلية؟",
+       "correct": true
+      },
+      {
+       "tr": "Çok lezzetli!",
+       "ar": "لذيذ جدًا!",
+       "correct": false
+      },
+      {
+       "tr": "Bugün cuma.",
+       "ar": "اليوم الجمعة.",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "tr": "Düz gidin, sonra sağa dönün.",
+     "ar": "اذهب مباشرة، ثم انعطف يمينًا.",
+     "hintAr": "اسأل عن المسافة.",
+     "choices": [
+      {
+       "tr": "Uzak mı?",
+       "ar": "هل هي بعيدة؟",
+       "correct": true
+      },
+      {
+       "tr": "Afiyet olsun.",
+       "ar": "بالهناء.",
+       "correct": false
+      },
+      {
+       "tr": "Ben yirmi yaşındayım.",
+       "ar": "عمري عشرون سنة.",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "tr": "Hayır, çok yakın. Beş dakika.",
+     "ar": "لا، قريبة جدًا. خمس دقائق.",
+     "hintAr": "اشكره.",
+     "choices": [
+      {
+       "tr": "Çok teşekkür ederim!",
+       "ar": "شكرًا جزيلًا!",
+       "correct": true
+      },
+      {
+       "tr": "Hesap, lütfen.",
+       "ar": "الحساب من فضلك.",
+       "correct": false
+      },
+      {
+       "tr": "Kahve içmiyorum.",
+       "ar": "لا أشرب القهوة.",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "tr": "Rica ederim. İyi günler!",
+     "ar": "عفوًا. يومًا سعيدًا!",
+     "hintAr": "ردّ على التحية.",
+     "choices": [
+      {
+       "tr": "İyi günler!",
+       "ar": "يومًا سعيدًا!",
+       "correct": true
+      },
+      {
+       "tr": "Bir bilet istiyorum.",
+       "ar": "أريد تذكرة.",
+       "correct": false
+      },
+      {
+       "tr": "Pazartesi.",
+       "ar": "الإثنين.",
+       "correct": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c_shopping",
+   "titleAr": "في السوق",
+   "image": "emoji:🛒",
+   "turns": [
+    {
+     "tr": "Merhaba, buyurun.",
+     "ar": "مرحبًا، تفضّل.",
+     "hintAr": "اسأل عن سعر التفاح.",
+     "choices": [
+      {
+       "tr": "Merhaba, bu elma ne kadar?",
+       "ar": "مرحبًا، كم سعر هذا التفاح؟",
+       "correct": true
+      },
+      {
+       "tr": "İyi akşamlar, hesap.",
+       "ar": "مساء الخير، الحساب.",
+       "correct": false
+      },
+      {
+       "tr": "Yarın görüşürüz.",
+       "ar": "نلتقي غدًا.",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "tr": "Kilosu kırk lira.",
+     "ar": "الكيلو بأربعين ليرة.",
+     "hintAr": "السعر مرتفع قليلًا.",
+     "choices": [
+      {
+       "tr": "Biraz pahalı. Daha ucuz var mı?",
+       "ar": "غالٍ قليلًا. هل يوجد أرخص؟",
+       "correct": true
+      },
+      {
+       "tr": "Benim adım Ali.",
+       "ar": "اسمي علي.",
+       "correct": false
+      },
+      {
+       "tr": "Kar yağıyor.",
+       "ar": "الثلج يتساقط.",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "tr": "Bu armut daha ucuz, otuz lira.",
+     "ar": "هذا الإجاص أرخص، ثلاثون ليرة.",
+     "hintAr": "وافق على الشراء.",
+     "choices": [
+      {
+       "tr": "Tamam, bir kilo alıyorum.",
+       "ar": "حسنًا، سآخذ كيلو واحدًا.",
+       "correct": true
+      },
+      {
+       "tr": "Sola dönün.",
+       "ar": "انعطف يسارًا.",
+       "correct": false
+      },
+      {
+       "tr": "Hoş bulduk.",
+       "ar": "أهلًا بك.",
+       "correct": false
+      }
+     ]
+    },
+    {
+     "tr": "Kartla mı, nakit mi?",
+     "ar": "بالبطاقة أم نقدًا؟",
+     "hintAr": "يسأل عن طريقة الدفع.",
+     "choices": [
+      {
+       "tr": "Kartla ödeyebilir miyim?",
+       "ar": "هل يمكنني الدفع بالبطاقة؟",
+       "correct": true
+      },
+      {
+       "tr": "Ben öğrenciyim.",
+       "ar": "أنا طالب.",
+       "correct": false
+      },
+      {
+       "tr": "Gece.",
+       "ar": "ليل.",
+       "correct": false
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

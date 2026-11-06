@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tk_background">#FFF8F7F2</color>
+    <color name="tk_turquoise">#FF14A3A3</color>
+    <color name="tk_deep_blue">#FF1D3E6E</color>
+    <color name="tk_orange">#FFF2994A</color>
+</resources>

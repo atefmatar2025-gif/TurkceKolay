@@ -1,0 +1,921 @@
+{
+ "contentVersion": 1,
+ "levels": [
+  {
+   "id": "lvl_0",
+   "code": "L0",
+   "title": "المستوى 0 — البداية",
+   "description": "الحروف وأول الكلمات والعبارات",
+   "sortOrder": 0,
+   "isUnlocked": true,
+   "modules": [
+    {
+     "id": "m_alphabet",
+     "title": "الحروف التركية",
+     "description": "29 حرفًا مع الصوت والصورة",
+     "image": "emoji:🔤",
+     "estimatedMinutes": 30,
+     "lessons": [
+      {
+       "id": "alpha_1",
+       "title": "A B C Ç D E",
+       "description": "أول ستة حروف",
+       "type": "ALPHABET",
+       "estimatedMinutes": 5,
+       "items": [
+        "l_a",
+        "l_b",
+        "l_c",
+        "l_ch",
+        "l_d",
+        "l_e"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "alpha_2",
+       "title": "F G Ğ H I İ",
+       "description": "انتبه لحرفي I و İ",
+       "type": "ALPHABET",
+       "estimatedMinutes": 5,
+       "items": [
+        "l_f",
+        "l_g",
+        "l_gh",
+        "l_h",
+        "l_i_dotless",
+        "l_i"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "alpha_3",
+       "title": "J K L M N O Ö",
+       "description": "سبعة حروف",
+       "type": "ALPHABET",
+       "estimatedMinutes": 5,
+       "items": [
+        "l_j",
+        "l_k",
+        "l_l",
+        "l_m",
+        "l_n",
+        "l_o",
+        "l_oe"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "alpha_4",
+       "title": "P R S Ş T U",
+       "description": "ستة حروف",
+       "type": "ALPHABET",
+       "estimatedMinutes": 5,
+       "items": [
+        "l_p",
+        "l_r",
+        "l_s",
+        "l_sh",
+        "l_t",
+        "l_u"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "alpha_5",
+       "title": "Ü V Y Z",
+       "description": "آخر الحروف",
+       "type": "ALPHABET",
+       "estimatedMinutes": 4,
+       "items": [
+        "l_ue",
+        "l_v",
+        "l_y",
+        "l_z"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "alpha_special",
+       "title": "الحروف المميزة",
+       "description": "Ç Ş Ğ I İ Ö Ü",
+       "type": "ALPHABET",
+       "estimatedMinutes": 6,
+       "items": [
+        "l_ch",
+        "l_sh",
+        "l_gh",
+        "l_i_dotless",
+        "l_i",
+        "l_oe",
+        "l_ue"
+       ],
+       "conversationId": null
+      }
+     ]
+    },
+    {
+     "id": "m_first_words",
+     "title": "أول 30 كلمة",
+     "description": "أهم الكلمات للبداية",
+     "image": "emoji:⭐",
+     "estimatedMinutes": 25,
+     "lessons": [
+      {
+       "id": "fw_1",
+       "title": "الكلمات 1–6",
+       "description": "ست كلمات مصوّرة",
+       "type": "VOCABULARY",
+       "estimatedMinutes": 5,
+       "items": [
+        "w_merhaba",
+        "w_evet",
+        "w_hayir",
+        "w_su",
+        "w_ekmek",
+        "w_elma"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "fw_2",
+       "title": "الكلمات 7–12",
+       "description": "ست كلمات مصوّرة",
+       "type": "VOCABULARY",
+       "estimatedMinutes": 5,
+       "items": [
+        "w_ev",
+        "w_kitap",
+        "w_anne",
+        "w_baba",
+        "w_cay",
+        "w_kahve"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "fw_3",
+       "title": "الكلمات 13–18",
+       "description": "ست كلمات مصوّرة",
+       "type": "VOCABULARY",
+       "estimatedMinutes": 5,
+       "items": [
+        "w_sut",
+        "w_araba",
+        "w_kedi",
+        "w_kopek",
+        "w_okul",
+        "w_kapi"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "fw_4",
+       "title": "الكلمات 19–24",
+       "description": "ست كلمات مصوّرة",
+       "type": "VOCABULARY",
+       "estimatedMinutes": 5,
+       "items": [
+        "w_sandalye",
+        "w_telefon",
+        "w_para",
+        "w_gunes",
+        "w_ay",
+        "w_cocuk"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "fw_5",
+       "title": "الكلمات 25–30",
+       "description": "ست كلمات مصوّرة",
+       "type": "VOCABULARY",
+       "estimatedMinutes": 5,
+       "items": [
+        "w_arkadas",
+        "w_yemek",
+        "w_goz",
+        "w_el",
+        "w_canta",
+        "w_iyi"
+       ],
+       "conversationId": null
+      }
+     ]
+    },
+    {
+     "id": "m_expressions",
+     "title": "عبارات أساسية",
+     "description": "التحية والشكر والمساعدة",
+     "image": "emoji:💬",
+     "estimatedMinutes": 20,
+     "lessons": [
+      {
+       "id": "ex_1",
+       "title": "التحية والوداع",
+       "description": "مرحبًا ومع السلامة",
+       "type": "EXPRESSIONS",
+       "estimatedMinutes": 5,
+       "items": [
+        "w_gunaydin",
+        "w_iyi_aksamlar",
+        "w_hos_geldiniz",
+        "w_hosca_kal",
+        "w_gorusuruz"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "ex_2",
+       "title": "كلمات مهذبة",
+       "description": "شكرًا ومن فضلك",
+       "type": "EXPRESSIONS",
+       "estimatedMinutes": 5,
+       "items": [
+        "w_tesekkur",
+        "w_lutfen",
+        "w_affedersiniz",
+        "w_ozur_dilerim"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "ex_3",
+       "title": "عن نفسي",
+       "description": "كيف حالك؟ واسمي…",
+       "type": "EXPRESSIONS",
+       "estimatedMinutes": 5,
+       "items": [
+        "w_nasilsiniz",
+        "w_iyiyim",
+        "w_benim_adim",
+        "w_ben_den"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "ex_4",
+       "title": "عندما لا أفهم",
+       "description": "اطلب الإعادة",
+       "type": "EXPRESSIONS",
+       "estimatedMinutes": 5,
+       "items": [
+        "w_anlamadim",
+        "w_tekrar",
+        "w_yavas"
+       ],
+       "conversationId": null
+      }
+     ]
+    },
+    {
+     "id": "m_everyday",
+     "title": "مفردات الحياة اليومية",
+     "description": "20 مجموعة مصوّرة",
+     "image": "emoji:🏡",
+     "estimatedMinutes": 110,
+     "lessons": [
+      {
+       "id": "ed_family_1",
+       "title": "العائلة",
+       "description": "كلمات مصوّرة",
+       "type": "VOCABULARY",
+       "estimatedMinutes": 5,
+       "items": [
+        "w_aile",
+        "w_kardes",
+        "w_dede",
+        "w_buyukanne",
+        "w_ogul",
+        "w_kiz",
+        "w_es",
+        "w_bebek"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "ed_food_1",
+       "title": "الطعام",
+       "description": "كلمات مصوّرة",
+       "type": "VOCABULARY",
+       "estimatedMinutes": 5,
+       "items": [
+        "w_peynir",
+        "w_yumurta",
+        "w_pilav",
+        "w_corba",
+        "w_et",
+        "w_tavuk",
+        "w_balik",
+        "w_bal"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "ed_fruits_1",
+       "title": "الفواكه",
+       "description": "كلمات مصوّرة",
+       "type": "VOCABULARY",
+       "estimatedMinutes": 5,
+       "items": [
+        "w_muz",
+        "w_portakal",
+        "w_uzum",
+        "w_cilek",
+        "w_karpuz",
+        "w_armut",
+        "w_limon"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "ed_vegetables_1",
+       "title": "الخضروات",
+       "description": "كلمات مصوّرة",
+       "type": "VOCABULARY",
+       "estimatedMinutes": 5,
+       "items": [
+        "w_domates",
+        "w_salatalik",
+        "w_patates",
+        "w_sogan",
+        "w_havuc",
+        "w_biber",
+        "w_patlican",
+        "w_sarimsak"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "ed_drinks_1",
+       "title": "المشروبات",
+       "description": "كلمات مصوّرة",
+       "type": "VOCABULARY",
+       "estimatedMinutes": 5,
+       "items": [
+        "w_meyve_suyu",
+        "w_gazli_icecek",
+        "w_ayran",
+        "w_bitki_cayi",
+        "w_limonata"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "ed_animals_1",
+       "title": "الحيوانات",
+       "description": "كلمات مصوّرة",
+       "type": "VOCABULARY",
+       "estimatedMinutes": 5,
+       "items": [
+        "w_kus",
+        "w_at",
+        "w_inek",
+        "w_tavsan",
+        "w_aslan",
+        "w_maymun",
+        "w_koyun",
+        "w_fil"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "ed_colors_1",
+       "title": "الألوان",
+       "description": "كلمات مصوّرة",
+       "type": "VOCABULARY",
+       "estimatedMinutes": 5,
+       "items": [
+        "w_kirmizi",
+        "w_mavi",
+        "w_yesil",
+        "w_sari",
+        "w_siyah",
+        "w_beyaz",
+        "w_turuncu",
+        "w_mor"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "ed_numbers_1",
+       "title": "الأرقام (1)",
+       "description": "كلمات مصوّرة",
+       "type": "VOCABULARY",
+       "estimatedMinutes": 5,
+       "items": [
+        "w_bir",
+        "w_iki",
+        "w_uc",
+        "w_dort",
+        "w_bes"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "ed_numbers_2",
+       "title": "الأرقام (2)",
+       "description": "كلمات مصوّرة",
+       "type": "VOCABULARY",
+       "estimatedMinutes": 5,
+       "items": [
+        "w_alti",
+        "w_yedi",
+        "w_sekiz",
+        "w_dokuz",
+        "w_on"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "ed_body_1",
+       "title": "أعضاء الجسم",
+       "description": "كلمات مصوّرة",
+       "type": "VOCABULARY",
+       "estimatedMinutes": 5,
+       "items": [
+        "w_agiz",
+        "w_burun",
+        "w_kulak",
+        "w_ayak",
+        "w_dis",
+        "w_sac",
+        "w_kol"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "ed_clothes_1",
+       "title": "الملابس",
+       "description": "كلمات مصوّرة",
+       "type": "VOCABULARY",
+       "estimatedMinutes": 5,
+       "items": [
+        "w_tisort",
+        "w_pantolon",
+        "w_elbise",
+        "w_ayakkabi",
+        "w_sapka",
+        "w_ceket",
+        "w_corap",
+        "w_eldiven"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "ed_home_1",
+       "title": "البيت",
+       "description": "كلمات مصوّرة",
+       "type": "VOCABULARY",
+       "estimatedMinutes": 5,
+       "items": [
+        "w_mutfak",
+        "w_banyo",
+        "w_pencere",
+        "w_anahtar",
+        "w_bahce",
+        "w_merdiven",
+        "w_duvar"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "ed_furniture_1",
+       "title": "الأثاث",
+       "description": "كلمات مصوّرة",
+       "type": "VOCABULARY",
+       "estimatedMinutes": 5,
+       "items": [
+        "w_koltuk",
+        "w_yatak",
+        "w_dolap",
+        "w_lamba",
+        "w_ayna",
+        "w_televizyon"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "ed_transport_1",
+       "title": "المواصلات",
+       "description": "كلمات مصوّرة",
+       "type": "VOCABULARY",
+       "estimatedMinutes": 5,
+       "items": [
+        "w_otobus",
+        "w_tren",
+        "w_ucak",
+        "w_bisiklet",
+        "w_taksi",
+        "w_gemi",
+        "w_metro"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "ed_places_1",
+       "title": "الأماكن",
+       "description": "كلمات مصوّرة",
+       "type": "VOCABULARY",
+       "estimatedMinutes": 5,
+       "items": [
+        "w_hastane",
+        "w_market",
+        "w_eczane",
+        "w_cami",
+        "w_banka",
+        "w_otel",
+        "w_havalimani",
+        "w_restoran"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "ed_time_1",
+       "title": "الوقت",
+       "description": "كلمات مصوّرة",
+       "type": "VOCABULARY",
+       "estimatedMinutes": 5,
+       "items": [
+        "w_saat",
+        "w_dakika",
+        "w_sabah",
+        "w_ogle",
+        "w_aksam",
+        "w_gece",
+        "w_bugun",
+        "w_yarin"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "ed_days_1",
+       "title": "أيام الأسبوع",
+       "description": "كلمات مصوّرة",
+       "type": "VOCABULARY",
+       "estimatedMinutes": 5,
+       "items": [
+        "w_pazartesi",
+        "w_sali",
+        "w_carsamba",
+        "w_persembe",
+        "w_cuma",
+        "w_cumartesi",
+        "w_pazar"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "ed_weather_1",
+       "title": "الطقس",
+       "description": "كلمات مصوّرة",
+       "type": "VOCABULARY",
+       "estimatedMinutes": 5,
+       "items": [
+        "w_gunesli",
+        "w_yagmur",
+        "w_kar",
+        "w_ruzgar",
+        "w_bulut",
+        "w_sicak",
+        "w_soguk",
+        "w_semsiye"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "ed_school_1",
+       "title": "المدرسة",
+       "description": "كلمات مصوّرة",
+       "type": "VOCABULARY",
+       "estimatedMinutes": 5,
+       "items": [
+        "w_ogretmen",
+        "w_ogrenci",
+        "w_kalem",
+        "w_defter",
+        "w_ders",
+        "w_makas",
+        "w_cetvel"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "ed_work_1",
+       "title": "العمل",
+       "description": "كلمات مصوّرة",
+       "type": "VOCABULARY",
+       "estimatedMinutes": 5,
+       "items": [
+        "w_is",
+        "w_doktor",
+        "w_asci",
+        "w_polis",
+        "w_muhendis",
+        "w_ciftci",
+        "w_toplanti",
+        "w_ofis"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "ed_verbs_1",
+       "title": "أفعال شائعة",
+       "description": "كلمات مصوّرة",
+       "type": "VOCABULARY",
+       "estimatedMinutes": 5,
+       "items": [
+        "w_uyumak",
+        "w_kosmak",
+        "w_yazmak",
+        "w_okumak",
+        "w_konusmak",
+        "w_dinlemek",
+        "w_gitmek",
+        "w_icmek"
+       ],
+       "conversationId": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lvl_a1",
+   "code": "A1",
+   "title": "المستوى A1 — مبتدئ",
+   "description": "جمل بسيطة لمواقف يومية",
+   "sortOrder": 1,
+   "isUnlocked": false,
+   "modules": [
+    {
+     "id": "m_a1_situations",
+     "title": "مواقف يومية",
+     "description": "جمل قصيرة ومفيدة",
+     "image": "emoji:🗣️",
+     "estimatedMinutes": 45,
+     "lessons": [
+      {
+       "id": "les_a1_intro",
+       "title": "التعريف بالنفس",
+       "description": "جمل قصيرة",
+       "type": "SENTENCES",
+       "estimatedMinutes": 6,
+       "items": [
+        "s_adim_ali",
+        "s_suriyeli",
+        "s_yirmi_yas",
+        "s_memnun",
+        "s_adiniz_ne"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "les_a1_questions",
+       "title": "أسئلة بسيطة",
+       "description": "جمل قصيرة",
+       "type": "SENTENCES",
+       "estimatedMinutes": 6,
+       "items": [
+        "s_bu_ne",
+        "s_nerede",
+        "s_ne_zaman",
+        "s_kim",
+        "s_kac_lira",
+        "s_neden"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "les_a1_people",
+       "title": "وصف الأشخاص",
+       "description": "جمل قصيرة",
+       "type": "SENTENCES",
+       "estimatedMinutes": 6,
+       "items": [
+        "s_uzun_boylu",
+        "s_cok_mutlu",
+        "s_kadin_genc",
+        "s_adam_yorgun",
+        "s_cocuk_kucuk"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "les_a1_food",
+       "title": "طلب الطعام",
+       "description": "جمل قصيرة",
+       "type": "SENTENCES",
+       "estimatedMinutes": 6,
+       "items": [
+        "s_menu",
+        "s_bir_cay",
+        "s_hesap",
+        "s_lezzetli",
+        "s_su_var_mi",
+        "s_afiyet"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "les_a1_shopping",
+       "title": "التسوق",
+       "description": "جمل قصيرة",
+       "type": "SENTENCES",
+       "estimatedMinutes": 6,
+       "items": [
+        "s_ne_kadar",
+        "s_pahali",
+        "s_ucuz",
+        "s_kartla",
+        "s_aliyorum",
+        "s_poset"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "les_a1_directions",
+       "title": "السؤال عن الطريق",
+       "description": "جمل قصيرة",
+       "type": "SENTENCES",
+       "estimatedMinutes": 6,
+       "items": [
+        "s_tuvalet",
+        "s_duz",
+        "s_saga",
+        "s_sola",
+        "s_yakin_mi",
+        "s_uzak_degil"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "les_a1_routine",
+       "title": "روتيني اليومي",
+       "description": "جمل قصيرة",
+       "type": "SENTENCES",
+       "estimatedMinutes": 6,
+       "items": [
+        "s_kalkiyorum",
+        "s_kahvalti",
+        "s_otobusle",
+        "s_pisiriyorum",
+        "s_yatiyorum"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "les_a1_negation",
+       "title": "النفي والسؤال",
+       "description": "جمل قصيرة",
+       "type": "SENTENCES",
+       "estimatedMinutes": 6,
+       "items": [
+        "s_yorgun_degilim",
+        "s_icmiyorum",
+        "s_anliyor_musun",
+        "s_anliyorum",
+        "s_bilmiyorum",
+        "s_turkce_biliyor"
+       ],
+       "conversationId": null
+      }
+     ]
+    },
+    {
+     "id": "m_a1_conversations",
+     "title": "محادثات قصيرة",
+     "description": "اختر الرد المناسب",
+     "image": "emoji:💬",
+     "estimatedMinutes": 20,
+     "lessons": [
+      {
+       "id": "conv_greeting",
+       "title": "التعارف",
+       "description": "محادثة",
+       "type": "CONVERSATION",
+       "estimatedMinutes": 4,
+       "items": [],
+       "conversationId": "c_greeting"
+      },
+      {
+       "id": "conv_cafe",
+       "title": "في المقهى",
+       "description": "محادثة",
+       "type": "CONVERSATION",
+       "estimatedMinutes": 4,
+       "items": [],
+       "conversationId": "c_cafe"
+      },
+      {
+       "id": "conv_directions",
+       "title": "السؤال عن الطريق",
+       "description": "محادثة",
+       "type": "CONVERSATION",
+       "estimatedMinutes": 4,
+       "items": [],
+       "conversationId": "c_directions"
+      },
+      {
+       "id": "conv_shopping",
+       "title": "في السوق",
+       "description": "محادثة",
+       "type": "CONVERSATION",
+       "estimatedMinutes": 4,
+       "items": [],
+       "conversationId": "c_shopping"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lvl_a2",
+   "code": "A2",
+   "title": "المستوى A2 — أساسي",
+   "description": "الماضي والمستقبل والمواعيد والسفر",
+   "sortOrder": 2,
+   "isUnlocked": false,
+   "modules": [
+    {
+     "id": "m_a2_life",
+     "title": "حياتي وخططي",
+     "description": "جمل أطول قليلًا",
+     "image": "emoji:🧳",
+     "estimatedMinutes": 30,
+     "lessons": [
+      {
+       "id": "les_a2_past",
+       "title": "أحداث مضت",
+       "description": "جمل",
+       "type": "SENTENCES",
+       "estimatedMinutes": 7,
+       "items": [
+        "s_sinema",
+        "s_istanbul",
+        "s_aksam_yemegi",
+        "s_bitirdim",
+        "s_ne_yaptin"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "les_a2_future",
+       "title": "خطط المستقبل",
+       "description": "جمل",
+       "type": "SENTENCES",
+       "estimatedMinutes": 7,
+       "items": [
+        "s_ankara",
+        "s_dinlenecegim",
+        "s_ogrenecegim",
+        "s_geleceksin",
+        "s_tatil"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "les_a2_appointments",
+       "title": "المواعيد",
+       "description": "جمل",
+       "type": "SENTENCES",
+       "estimatedMinutes": 7,
+       "items": [
+        "s_randevu",
+        "s_uygun",
+        "s_ertelendi",
+        "s_doktora",
+        "s_gec_kalacagim"
+       ],
+       "conversationId": null
+      },
+      {
+       "id": "les_a2_travel",
+       "title": "السفر",
+       "description": "جمل",
+       "type": "SENTENCES",
+       "estimatedMinutes": 7,
+       "items": [
+        "s_bilet",
+        "s_tren_kacta",
+        "s_rezervasyon",
+        "s_pasaport",
+        "s_havalimani_uzak"
+       ],
+       "conversationId": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lvl_b1",
+   "code": "B1",
+   "title": "المستوى B1 — متوسط",
+   "description": "قريبًا في تحديث قادم",
+   "sortOrder": 3,
+   "isUnlocked": false,
+   "modules": []
+  }
+ ]
+}
