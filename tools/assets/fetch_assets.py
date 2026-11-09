@@ -74,6 +74,56 @@ def imageinfo(titles, width=None):
     return out
 
 
+def download_candidates(out, concept, metas, start_k=0):
+    from PIL import Image
+    saved = []
+    for k, m in enumerate(metas, start=start_k):
+        data = get(m["url"], binary=True)
+        if not data:
+            continue
+        try:
+            im = Image.open(io.BytesIO(data)).convert("RGB")
+            im.thumbnail((480, 480))
+            im.save(os.path.join(out, "images", f"{concept}_{k}.jpg"), quality=85)
+            saved.append({**m, "k": k})
+        except Exception as e:  # noqa: BLE001
+            print("  bad image", concept, e, file=sys.stderr)
+    return saved
+
+
+def usable(m):
+    return m and m["free"] and m["mime"] in ("image/jpeg", "image/png", "image/webp") and (m["width"] or 0) >= 300
+
+
+def refetch_images(out, queries):
+    """Second round for concepts whose first candidates were rejected: several queries, up to 6 candidates."""
+    os.makedirs(os.path.join(out, "images"), exist_ok=True)
+    hits = {}
+    for c, qs in queries.items():
+        hits[c] = []
+        for q in qs:
+            d = get(COMMONS, {"action": "query", "list": "search", "srnamespace": 6, "srlimit": 6,
+                              "srsearch": f"{q} filetype:bitmap"})
+            hits[c].append([r["title"] for r in (d or {}).get("query", {}).get("search", [])])
+    info = imageinfo([t for lists in hits.values() for l in lists for t in l], width=480)
+    result = {}
+    for c, lists in hits.items():
+        chosen = []
+        for l in lists:
+            picked = 0
+            for t in l:
+                m = info.get(t)
+                if usable(m) and all(x["title"] != t for x in chosen):
+                    chosen.append(m)
+                    picked += 1
+                if picked == 3:
+                    break
+        result[c] = download_candidates(out, c, chosen)
+        print(f"{c}: {len(result[c])} candidates", flush=True)
+    with open(os.path.join(out, "images.json"), "w", encoding="utf-8") as f:
+        json.dump(result, f, ensure_ascii=False, indent=1)
+
+
 def fetch_images(out):
     os.makedirs(os.path.join(out, "images"), exist_ok=True)
     from PIL import Image
@@ -202,6 +252,10 @@ if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("--out", required=True)
     ap.add_argument("--content", required=True)
+    ap.add_argument("--refetch", help="JSON file: concept -> list of search queries (images only)")
     a = ap.parse_args()
-    fetch_audio(a.out, a.content)
-    fetch_images(a.out)
+    if a.refetch:
+        refetch_images(a.out, json.load(open(a.refetch, encoding="utf-8")))
+    else:
+        fetch_audio(a.out, a.content)
+        fetch_images(a.out)

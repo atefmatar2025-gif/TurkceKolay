@@ -1,0 +1,19 @@
+{
+ "evet": 2, "hayir": 0, "su": 2, "elma": 0, "ev": 1, "cay": 1, "kahve": 2, "kedi": 0, "kopek": 2,
+ "okul": 2, "kapi": 2, "telefon": 2, "para": 0, "ay": 0, "yemek": 2, "goz": 2, "el": 1, "gunaydin": 1,
+ "iyi_aksamlar": 0, "gorusuruz": 2, "affedersiniz": 0, "iyiyim": 1, "ben_den": 2, "yavas": 1,
+ "ogul": 2, "kiz": 2, "bebek": 1, "peynir": 0, "yumurta": 2, "pilav": 2, "corba": 1, "et": 0, "tavuk": 0,
+ "bal": 0, "muz": 2, "portakal": 0, "cilek": 1, "karpuz": 1, "armut": 2, "limon": 1, "domates": 2,
+ "patates": 0, "sogan": 0, "havuc": 0, "biber": 0, "patlican": 0, "sarimsak": 0, "meyve_suyu": 0,
+ "gazli_icecek": 1, "ayran": 2, "bitki_cayi": 1, "kus": 1, "at": 0, "inek": 0, "tavsan": 0, "aslan": 0,
+ "maymun": 0, "koyun": 0, "fil": 1, "burun": 1, "ayak": 1, "dis": 1, "sac": 1, "kol": 0, "tisort": 1,
+ "elbise": 0, "ayakkabi": 1, "sapka": 2, "ceket": 2, "corap": 0, "eldiven": 2, "banyo": 2, "pencere": 1,
+ "bahce": 0, "merdiven": 0, "duvar": 1, "koltuk": 2, "yatak": 0, "dolap": 2, "ayna": 0, "televizyon": 2,
+ "otobus": 1, "tren": 0, "ucak": 2, "bisiklet": 0, "taksi": 0, "gemi": 2, "metro": 1, "hastane": 0,
+ "market": 1, "eczane": 2, "cami": 0, "banka": 0, "otel": 2, "havalimani": 2, "saat": 2, "dakika": 2,
+ "sabah": 2, "ogle": 0, "aksam": 0, "gece": 0, "kar": 0, "ruzgar": 1, "bulut": 0, "ogrenci": 1,
+ "kalem": 1, "defter": 0, "ders": 1, "makas": 1, "cetvel": 2, "is": 0, "doktor": 1, "asci": 0, "polis": 0,
+ "muhendis": 0, "ciftci": 2, "kosmak": 0, "yazmak": 0, "okumak": 0, "dinlemek": 0, "gitmek": 0,
+ "icmek": 1, "ari": 0, "dondurma": 0, "dag": 0, "irmak": 2, "jole": 0, "nane": 1, "ordek": 0, "radyo": 0,
+ "vapur": 1, "zurafa": 0
+}
