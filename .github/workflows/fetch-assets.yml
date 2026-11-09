@@ -1,0 +1,39 @@
+name: Fetch picture and audio candidates
+
+# Collects freely licensed photos and native-speaker recordings from Wikimedia
+# and publishes them on the `asset-candidates` branch for human review.
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+    paths:
+      - 'tools/assets/manifest.py'
+      - 'tools/assets/fetch_assets.py'
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install tools
+        run: |
+          pip install pillow
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+      - name: Fetch
+        run: python tools/assets/fetch_assets.py --out "$RUNNER_TEMP/candidates" --content app/src/main/assets/content
+      - name: Publish to asset-candidates branch
+        run: |
+          cd "$RUNNER_TEMP/candidates"
+          git init -q -b asset-candidates
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "Asset candidates from ${GITHUB_SHA::7}"
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" asset-candidates
