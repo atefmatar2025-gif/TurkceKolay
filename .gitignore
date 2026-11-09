@@ -13,3 +13,5 @@
 keystore.properties
 secrets.properties
 .env
+__pycache__/
+*.pyc
