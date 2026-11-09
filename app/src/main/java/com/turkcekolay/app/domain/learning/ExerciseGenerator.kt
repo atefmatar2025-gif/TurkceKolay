@@ -108,12 +108,14 @@ class ExerciseGenerator(private val random: Random) {
     private fun pictureSelection(item: LearnItem, pool: List<LearnItem>): Exercise? {
         val distractors = distractors(item, pool, needDistinctImage = true)
         if (distractors.size < 2) return null
-        val (options, correct) = shuffledOptions(item, distractors) { ChoiceOption(image = it.image, itemId = it.id) }
         val isLetter = item.kind == ItemKind.LETTER
+        val (options, correct) = shuffledOptions(item, distractors) {
+            ChoiceOption(image = it.image, itemId = it.id, label = if (isLetter) it.exampleTurkish else null)
+        }
         return ChoiceExercise(
             id = nextId("pic"),
             type = PICTURE_SELECTION,
-            instruction = if (isLetter) "أي صورة تبدأ بهذا الحرف؟" else "اختر الصورة الصحيحة",
+            instruction = if (isLetter) "ابحث عن الكلمة التي تبدأ بهذا الحرف" else "اختر الصورة الصحيحة",
             targetItemId = item.id,
             promptText = if (isLetter) letterDisplay(item) else item.turkish,
             promptIsTurkish = true,

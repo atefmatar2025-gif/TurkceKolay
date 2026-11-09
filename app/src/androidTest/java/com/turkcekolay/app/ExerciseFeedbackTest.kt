@@ -49,7 +49,7 @@ class ExerciseFeedbackTest {
         )
         rule.setContent {
             TurkceKolayTheme {
-                ExerciseHost(exercise, quietMode = true, slowAudio = false, onAnswered = { r, _ -> reported = r }, onContinue = { continued = true })
+                ExerciseHost(exercise, quietMode = true, onAnswered = { r, _ -> reported = r }, onContinue = { continued = true })
             }
         }
         rule.onNodeWithText("Elma").performClick()

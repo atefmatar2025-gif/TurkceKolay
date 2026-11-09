@@ -6,10 +6,12 @@ import androidx.datastore.preferences.core.Preferences
 import androidx.datastore.preferences.core.booleanPreferencesKey
 import androidx.datastore.preferences.core.edit
 import androidx.datastore.preferences.core.intPreferencesKey
+import androidx.datastore.preferences.core.stringPreferencesKey
 import androidx.datastore.preferences.preferencesDataStore
 import com.turkcekolay.app.core.common.Clock
 import com.turkcekolay.app.data.local.dao.ProgressDao
 import com.turkcekolay.app.data.local.entities.UserProfileEntity
+import com.turkcekolay.app.domain.model.SpeechSpeed
 import com.turkcekolay.app.domain.model.UserSettings
 import com.turkcekolay.app.domain.repository.SettingsRepository
 import kotlinx.coroutines.flow.Flow
@@ -35,7 +37,8 @@ class SettingsRepositoryImpl @Inject constructor(
         val ONBOARDING = booleanPreferencesKey("onboarding_completed")
         val GOAL = intPreferencesKey("daily_goal_minutes")
         val QUIET = booleanPreferencesKey("quiet_mode")
-        val SLOW = booleanPreferencesKey("slow_audio")
+        val SPEED = stringPreferencesKey("speech_speed")
+        val REPEAT = intPreferencesKey("repeat_count")
         val REMINDERS = booleanPreferencesKey("reminders")
         val UNLOCK_ALL = booleanPreferencesKey("unlock_all_levels")
         val CONTENT_VERSION = intPreferencesKey("content_version")
@@ -46,7 +49,8 @@ class SettingsRepositoryImpl @Inject constructor(
             onboardingCompleted = p[Keys.ONBOARDING] ?: false,
             dailyGoalMinutes = p[Keys.GOAL] ?: 10,
             quietMode = p[Keys.QUIET] ?: false,
-            slowAudioByDefault = p[Keys.SLOW] ?: false,
+            speechSpeed = p[Keys.SPEED]?.let { v -> SpeechSpeed.entries.firstOrNull { it.name == v } } ?: SpeechSpeed.SLOW,
+            repeatCount = (p[Keys.REPEAT] ?: 3).coerceIn(1, 3),
             remindersEnabled = p[Keys.REMINDERS] ?: false,
             unlockAllLevels = p[Keys.UNLOCK_ALL] ?: false,
         )
@@ -71,7 +75,8 @@ class SettingsRepositoryImpl @Inject constructor(
         syncProfile()
     }
 
-    override suspend fun setSlowAudio(enabled: Boolean) { dataStore.edit { it[Keys.SLOW] = enabled } }
+    override suspend fun setSpeechSpeed(speed: SpeechSpeed) { dataStore.edit { it[Keys.SPEED] = speed.name } }
+    override suspend fun setRepeatCount(count: Int) { dataStore.edit { it[Keys.REPEAT] = count.coerceIn(1, 3) } }
     override suspend fun setReminders(enabled: Boolean) { dataStore.edit { it[Keys.REMINDERS] = enabled } }
     override suspend fun setUnlockAll(enabled: Boolean) { dataStore.edit { it[Keys.UNLOCK_ALL] = enabled } }
 

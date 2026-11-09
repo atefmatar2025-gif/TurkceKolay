@@ -9,6 +9,7 @@ import com.turkcekolay.app.domain.learning.ExerciseGenerator
 import com.turkcekolay.app.domain.learning.Xp
 import com.turkcekolay.app.domain.model.LearnItem
 import com.turkcekolay.app.domain.model.LessonInfo
+import com.turkcekolay.app.domain.model.LessonType
 import com.turkcekolay.app.domain.model.UserSettings
 import com.turkcekolay.app.domain.repository.ContentRepository
 import com.turkcekolay.app.domain.repository.ProgressRepository
@@ -35,6 +36,8 @@ import kotlin.random.Random
 sealed interface LessonPhase {
     data object Loading : LessonPhase
     data class Learn(val index: Int) : LessonPhase
+    /** Guided listening of all letters (step one of the course). */
+    data object Tour : LessonPhase
     data object Practice : LessonPhase
     data class Result(val scorePercent: Int, val correct: Int, val total: Int, val xp: Int) : LessonPhase
     data class Error(val message: String) : LessonPhase
@@ -92,7 +95,8 @@ class LessonViewModel @Inject constructor(
         }
         pool = content.getPool()
         progress.markLessonStarted(lessonId)
-        _state.value = LessonUiState(LessonPhase.Learn(0), lesson, items, settings)
+        val first = if (lesson.type == LessonType.ALPHABET_INTRO) LessonPhase.Tour else LessonPhase.Learn(0)
+        _state.value = LessonUiState(first, lesson, items, settings)
     }
 
     fun toggleFavorite(itemId: String) = viewModelScope.launch { progress.toggleFavorite(itemId) }
@@ -110,11 +114,14 @@ class LessonViewModel @Inject constructor(
 
     fun startPractice() {
         val s = _state.value
-        val exercises = generator.lessonExercises(s.items, pool, s.settings.quietMode)
+        // Letter lessons only use letters taught in this lesson as wrong options,
+        // so a beginner is never asked about words they have not seen yet.
+        val practicePool = if (s.lesson?.type == LessonType.ALPHABET) s.items else pool
+        val exercises = generator.lessonExercises(s.items, practicePool, s.settings.quietMode)
         session.value = PracticeSession(
             exercises = exercises,
             itemsById = s.items.associateBy { it.id },
-            pool = pool,
+            pool = practicePool,
             generator = generator,
             quietMode = s.settings.quietMode,
             lessonId = lessonId,
@@ -143,9 +150,19 @@ class LessonViewModel @Inject constructor(
         }
     }
 
+    fun finishTour() {
+        val seconds = timer.takeSeconds()
+        _state.update { it.copy(phase = LessonPhase.Result(100, 0, 0, Xp.LESSON_COMPLETED)) }
+        appScope.launch {
+            progress.completeLesson(lessonId, 100, seconds, Xp.LESSON_COMPLETED)
+            progress.addLearningTime(seconds)
+        }
+    }
+
     fun restart() {
         session.value = null
-        _state.update { it.copy(phase = LessonPhase.Learn(0)) }
+        val first = if (_state.value.lesson?.type == LessonType.ALPHABET_INTRO) LessonPhase.Tour else LessonPhase.Learn(0)
+        _state.update { it.copy(phase = first) }
     }
 
     override fun onCleared() {

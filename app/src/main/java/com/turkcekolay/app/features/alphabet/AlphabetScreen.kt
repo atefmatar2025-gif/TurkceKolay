@@ -36,6 +36,7 @@ import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import androidx.lifecycle.viewModelScope
 import com.turkcekolay.app.core.designsystem.LoadingState
 import com.turkcekolay.app.core.designsystem.PrimaryButton
+import com.turkcekolay.app.core.designsystem.SecondaryButton
 import com.turkcekolay.app.core.designsystem.TkCard
 import com.turkcekolay.app.core.designsystem.TkColors
 import com.turkcekolay.app.core.designsystem.TkTopBar
@@ -142,7 +143,8 @@ fun AlphabetScreen(onBack: () -> Unit, onStartLesson: (String) -> Unit, viewMode
             item(span = { GridItemSpan(maxLineSpan) }) {
                 Column(Modifier.padding(top = 8.dp)) {
                     Text("🟧 الإطار البرتقالي = حروف خاصة بالتركية", style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
-                    PrimaryButton("ابدأ درس الحروف", { onStartLesson("alpha_1") }, Modifier.fillMaxWidth().padding(top = 8.dp))
+                    PrimaryButton("👂 استمع إلى كل الحروف", { onStartLesson("alpha_0") }, Modifier.fillMaxWidth().padding(top = 8.dp))
+                    SecondaryButton("ابدأ درس الحروف الأول", { onStartLesson("alpha_1") }, Modifier.fillMaxWidth().padding(top = 8.dp))
                 }
             }
         }

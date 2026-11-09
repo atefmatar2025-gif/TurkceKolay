@@ -173,10 +173,12 @@ fun HomeScreen(
 
 private fun lessonSubtitle(lesson: LessonInfo): String = when (lesson.type) {
     LessonType.CONVERSATION -> "محادثة · ${lesson.estimatedMinutes} د"
+    LessonType.ALPHABET_INTRO -> "استمع وشاهد · ${lesson.estimatedMinutes} د"
     else -> "${lesson.itemIds.size} عناصر · ${lesson.estimatedMinutes} د"
 }
 
 private fun lessonIcon(type: LessonType) = when (type) {
+    LessonType.ALPHABET_INTRO -> "emoji:👂"
     LessonType.ALPHABET -> "emoji:🔤"
     LessonType.VOCABULARY -> "emoji:🖼️"
     LessonType.EXPRESSIONS -> "emoji:💬"

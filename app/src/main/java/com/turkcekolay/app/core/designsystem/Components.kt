@@ -113,9 +113,9 @@ fun SectionTitle(text: String, modifier: Modifier = Modifier) {
 
 /** Renders a stable content image reference: "emoji:🍎" or a bundled asset path. */
 @Composable
-fun ContentImage(image: String, modifier: Modifier = Modifier, size: Dp = 120.dp) {
+fun ContentImage(image: String, modifier: Modifier = Modifier, size: Dp = 120.dp, fill: Boolean = false) {
     if (image.startsWith("emoji:")) {
-        Box(modifier.size(size), contentAlignment = Alignment.Center) {
+        Box(if (fill) modifier.fillMaxSize() else modifier.size(size), contentAlignment = Alignment.Center) {
             Text(image.removePrefix("emoji:"), fontSize = (size.value * 0.62f).sp, textAlign = TextAlign.Center)
         }
     } else {
@@ -125,8 +125,12 @@ fun ContentImage(image: String, modifier: Modifier = Modifier, size: Dp = 120.dp
                 runCatching { context.assets.open(image).use { BitmapFactory.decodeStream(it)?.asImageBitmap() } }.getOrNull()
             }
         }
-        Box(modifier.size(size), contentAlignment = Alignment.Center) {
-            bitmap?.let { Image(it, contentDescription = null, contentScale = ContentScale.Fit, modifier = Modifier.fillMaxSize()) }
+        // Photos fill their frame (cropped to the centre) with rounded corners.
+        Box(
+            (if (fill) modifier.fillMaxSize() else modifier.size(size)).clip(RoundedCornerShape(if (fill) 18.dp else 14.dp)),
+            contentAlignment = Alignment.Center,
+        ) {
+            bitmap?.let { Image(it, contentDescription = null, contentScale = ContentScale.Crop, modifier = Modifier.fillMaxSize()) }
         }
     }
 }
@@ -167,6 +171,8 @@ fun AudioButton(
     slow: Boolean = false,
     size: Dp = 56.dp,
     autoPlayKey: Any? = null,
+    /** Say it several times (the learner's repeat setting, 3 by default). */
+    repeat: Boolean = false,
 ) {
     val manager = LocalAudioManager.current
     val ttsStatus by (manager?.ttsStatus ?: remember { kotlinx.coroutines.flow.MutableStateFlow(TtsStatus.ERROR) }).collectAsState()
@@ -174,12 +180,12 @@ fun AudioButton(
     var showWhy by remember { mutableStateOf(false) }
 
     if (autoPlayKey != null) {
-        LaunchedEffect(autoPlayKey, available) { if (available) manager?.play(audio, slow) }
+        LaunchedEffect(autoPlayKey, available) { if (available) manager?.play(audio, slow, repeat) }
     }
 
     if (available) {
         FilledIconButton(
-            onClick = { manager?.play(audio, slow) },
+            onClick = { manager?.play(audio, slow, repeat) },
             modifier = modifier.size(size),
             colors = IconButtonDefaults.filledIconButtonColors(
                 containerColor = if (slow) MaterialTheme.colorScheme.secondaryContainer else MaterialTheme.colorScheme.primary,
@@ -188,7 +194,7 @@ fun AudioButton(
         ) {
             Icon(
                 if (slow) Icons.Rounded.SlowMotionVideo else Icons.AutoMirrored.Rounded.VolumeUp,
-                contentDescription = if (slow) "استماع ببطء" else "استماع",
+                contentDescription = if (slow) "استماع ببطء شديد" else "استماع",
                 modifier = Modifier.size(size * 0.5f),
             )
         }
@@ -404,7 +410,7 @@ fun VocabularyCard(
                         .aspectRatio(1.6f)
                         .background(MaterialTheme.colorScheme.surfaceVariant, RoundedCornerShape(20.dp)),
                     contentAlignment = Alignment.Center,
-                ) { ContentImage(image, size = 150.dp) }
+                ) { ContentImage(image, size = 150.dp, fill = true) }
             }
             val showT = showTurkish || revealed
             val showA = showArabic || revealed
@@ -414,7 +420,7 @@ fun VocabularyCard(
                 TextButton(onClick = { revealed = true }) { Text("اضغط لإظهار الكلمة") }
             }
             Row(horizontalArrangement = Arrangement.spacedBy(16.dp), verticalAlignment = Alignment.CenterVertically) {
-                AudioButton(audio, size = 64.dp, autoPlayKey = autoPlayKey)
+                AudioButton(audio, size = 64.dp, autoPlayKey = autoPlayKey, repeat = true)
                 AudioButton(audio, slow = true, size = 52.dp)
             }
             if (example != null && (showT || revealed)) {
@@ -474,12 +480,38 @@ fun PictureChoiceCard(option: ChoiceOption, state: ChoiceState, onClick: () -> U
             .clickable(enabled = state == ChoiceState.IDLE, role = Role.Button, onClick = onClick),
         contentAlignment = Alignment.Center,
     ) {
-        option.image?.let { ContentImage(it, size = 96.dp) }
+        if (option.image != null) {
+            Column(Modifier.fillMaxSize().padding(6.dp), horizontalAlignment = Alignment.CenterHorizontally) {
+                Box(Modifier.weight(1f).fillMaxWidth(), contentAlignment = Alignment.Center) {
+                    ContentImage(option.image, size = 96.dp, fill = true)
+                }
+                option.label?.let { HighlightedWord(it, style = TurkishStyle.Medium, modifier = Modifier.padding(top = 4.dp)) }
+            }
+        }
         option.text?.let {
             if (option.isTurkish) TurkishText(it, style = TurkishStyle.Medium)
             else Text(it, style = MaterialTheme.typography.titleMedium, textAlign = TextAlign.Center)
         }
     }
+}
+
+/** A Turkish word with its first letter enlarged and coloured, to link the letter to the word. */
+@Composable
+fun HighlightedWord(
+    word: String,
+    modifier: Modifier = Modifier,
+    style: androidx.compose.ui.text.TextStyle = TurkishStyle.Large,
+    color: Color = MaterialTheme.colorScheme.onSurface,
+    highlightLength: Int = 1,
+) {
+    val n = highlightLength.coerceIn(0, word.length)
+    val text = androidx.compose.ui.text.buildAnnotatedString {
+        pushStyle(androidx.compose.ui.text.SpanStyle(color = TkColors.Orange, fontWeight = FontWeight.ExtraBold))
+        append(word.take(n))
+        pop()
+        append(word.drop(n))
+    }
+    Text(text = text, modifier = modifier, style = style, color = color, textAlign = TextAlign.Center)
 }
 
 /** A wide tappable text option (Turkish or Arabic). */

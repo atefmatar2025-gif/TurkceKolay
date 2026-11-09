@@ -128,7 +128,7 @@ fun OnboardingScreen(
                     else -> {
                         LearningCharacter(size = 120.dp)
                         Spacer(Modifier.height(16.dp))
-                        Text("جاهز؟ لنبدأ بالحروف!", style = MaterialTheme.typography.headlineSmall)
+                        Text("الخطوة الأولى: نستمع إلى الحروف كلها", style = MaterialTheme.typography.headlineSmall)
                         Spacer(Modifier.height(10.dp))
                         TurkishText("A  B  C  Ç  D  E", style = TurkishStyle.Large, color = MaterialTheme.colorScheme.primary)
                     }
@@ -138,7 +138,7 @@ fun OnboardingScreen(
         if (page < 4) {
             PrimaryButton("التالي", { page++ }, Modifier.fillMaxWidth())
         } else {
-            PrimaryButton("ابدأ الدرس الأول", { finish(true) }, Modifier.fillMaxWidth(), enabled = !saving)
+            PrimaryButton("ابدأ الخطوة الأولى", { finish(true) }, Modifier.fillMaxWidth(), enabled = !saving)
             TextButton(onClick = { finish(false) }, modifier = Modifier.fillMaxWidth()) { Text("اذهب إلى الصفحة الرئيسية") }
         }
     }

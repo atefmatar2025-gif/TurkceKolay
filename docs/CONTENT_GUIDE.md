@@ -31,12 +31,21 @@
 
 1. أضف العناصر في JSON المناسب.
 2. أضفها إلى درس في `lessons.json`.
-3. ارفع `contentVersion` في **الملفات الخمسة** معًا.
+3. ارفع `VERSION` في `tools/content/gen_content.py` وشغّله (يكتب الملفات الخمسة).
 4. شغّل `./gradlew testDebugUnitTest` — `ContentValidationTest` يتحقق من المراجع والأحجام والحروف.
 
 ## الصور والتراخيص
 
-النسخة الحالية تستخدم رموز النظام التعبيرية. عند استبدالها برسوم: استخدم أسلوبًا موحّدًا، خلفية بسيطة، كائن واحد واضح؛ وسجّل المصدر والترخيص في `assets/images/ATTRIBUTION.md`.
+- **180 صورة حقيقية** من Wikimedia Commons (رخص حرّة فقط) في `assets/images/vocab/<concept>.webp`، اختيرت كل واحدة بالمراجعة البصرية.
+- الأرقام والألوان وأيام الأسبوع رسوم مولّدة (`tools/assets/make_generated.py`) لأن الصورة الفوتوغرافية لا تعبّر عنها بوضوح.
+- العناصر بلا صورة مراجَعة تبقى برمز تعبيري احتياطي.
+
+خط العمل:
+1. أضف الكلمة ومصدرها في `tools/assets/manifest.py` (مقال ويكيبيديا + عبارة بحث).
+2. يجلب GitHub Actions المرشحين إلى فرع `asset-candidates`؛ راجعهم وسجّل الاختيار في `choices.json`.
+3. يولّد `selected.json` ويُنزّل الصور بدقة 720px إلى فرع `asset-final`.
+4. `python tools/assets/apply_assets.py --images <dir>` ثم `python tools/content/gen_content.py`.
+5. المصادر تُكتب تلقائيًا في `assets/credits.json` و`assets/images/ATTRIBUTION.md`.
 
 ## المراجعة اللغوية
 

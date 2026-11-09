@@ -1,5 +1,5 @@
 {
- "contentVersion": 1,
+ "contentVersion": 2,
  "levels": [
   {
    "id": "lvl_0",
@@ -16,6 +16,45 @@
      "image": "emoji:🔤",
      "estimatedMinutes": 30,
      "lessons": [
+      {
+       "id": "alpha_0",
+       "title": "استمع إلى كل الحروف",
+       "description": "الخطوة الأولى: 29 حرفًا بالصوت والصورة",
+       "type": "ALPHABET_INTRO",
+       "estimatedMinutes": 6,
+       "items": [
+        "l_a",
+        "l_b",
+        "l_c",
+        "l_ch",
+        "l_d",
+        "l_e",
+        "l_f",
+        "l_g",
+        "l_gh",
+        "l_h",
+        "l_i_dotless",
+        "l_i",
+        "l_j",
+        "l_k",
+        "l_l",
+        "l_m",
+        "l_n",
+        "l_o",
+        "l_oe",
+        "l_p",
+        "l_r",
+        "l_s",
+        "l_sh",
+        "l_t",
+        "l_u",
+        "l_ue",
+        "l_v",
+        "l_y",
+        "l_z"
+       ],
+       "conversationId": null
+      },
       {
        "id": "alpha_1",
        "title": "A B C Ç D E",

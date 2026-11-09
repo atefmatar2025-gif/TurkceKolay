@@ -39,6 +39,7 @@ import com.turkcekolay.app.features.home.HomeScreen
 import com.turkcekolay.app.features.lessons.LessonScreen
 import com.turkcekolay.app.features.onboarding.OnboardingScreen
 import com.turkcekolay.app.features.progress.ProgressScreen
+import com.turkcekolay.app.features.settings.CreditsScreen
 import com.turkcekolay.app.features.settings.SettingsScreen
 import com.turkcekolay.app.features.smartreview.SmartReviewScreen
 import com.turkcekolay.app.features.vocabulary.CategoriesScreen
@@ -52,6 +53,7 @@ object Routes {
     const val PROGRESS = "progress"
     const val TUTOR = "tutor"
     const val SETTINGS = "settings"
+    const val CREDITS = "credits"
     const val LESSON = "lesson/{lessonId}"
     const val ALPHABET = "alphabet"
     const val CATEGORIES = "categories"
@@ -122,7 +124,7 @@ fun AppNavHost(onboardingCompleted: Boolean) {
                 composable(Routes.ONBOARDING) {
                     OnboardingScreen(onFinished = { startLesson ->
                         navController.navigate(Routes.HOME) { popUpTo(Routes.ONBOARDING) { inclusive = true } }
-                        if (startLesson) navController.navigate(Routes.lesson("alpha_1"))
+                        if (startLesson) navController.navigate(Routes.lesson("alpha_0"))
                     })
                 }
                 composable(Routes.HOME) {
@@ -143,7 +145,8 @@ fun AppNavHost(onboardingCompleted: Boolean) {
                 composable(Routes.REVIEW) { SmartReviewScreen() }
                 composable(Routes.PROGRESS) { ProgressScreen() }
                 composable(Routes.TUTOR) { AiTutorScreen() }
-                composable(Routes.SETTINGS) { SettingsScreen() }
+                composable(Routes.SETTINGS) { SettingsScreen(onOpenCredits = { navController.navigate(Routes.CREDITS) }) }
+                composable(Routes.CREDITS) { CreditsScreen(onBack = { navController.popBackStack() }) }
                 composable(Routes.LESSON, arguments = listOf(navArgument("lessonId") { type = NavType.StringType })) {
                     LessonScreen(onClose = { navController.popBackStack() })
                 }

@@ -82,18 +82,21 @@ fun PracticeContent(
     exercise: Exercise,
     progress: Float,
     quietMode: Boolean,
-    slowAudio: Boolean,
     onAnswered: (Map<String, Boolean>, String) -> Unit,
     onContinue: () -> Unit,
     onClose: () -> Unit,
+    header: String? = null,
 ) {
     Column(Modifier.fillMaxSize()) {
         Row(Modifier.fillMaxWidth().padding(horizontal = 8.dp, vertical = 6.dp), verticalAlignment = Alignment.CenterVertically) {
             IconButton(onClick = onClose) { Icon(Icons.Rounded.Close, contentDescription = "إغلاق") }
-            TkProgressIndicator(progress, Modifier.weight(1f).padding(end = 12.dp))
+            Column(Modifier.weight(1f).padding(end = 12.dp)) {
+                header?.let { Text(it, style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurfaceVariant) }
+                TkProgressIndicator(progress)
+            }
         }
         key(exercise.id) {
-            ExerciseHost(exercise, quietMode, slowAudio, onAnswered, onContinue, Modifier.weight(1f))
+            ExerciseHost(exercise, quietMode, onAnswered, onContinue, Modifier.weight(1f))
         }
     }
 }
@@ -102,7 +105,6 @@ fun PracticeContent(
 fun ExerciseHost(
     exercise: Exercise,
     quietMode: Boolean,
-    slowAudio: Boolean,
     onAnswered: (Map<String, Boolean>, String) -> Unit,
     onContinue: () -> Unit,
     modifier: Modifier = Modifier,
@@ -127,7 +129,7 @@ fun ExerciseHost(
             Text(exercise.instruction, style = MaterialTheme.typography.titleLarge, textAlign = TextAlign.Center)
             val locked = feedback != null
             when (exercise) {
-                is ChoiceExercise -> ChoiceView(exercise, locked, quietMode, slowAudio) { index ->
+                is ChoiceExercise -> ChoiceView(exercise, locked, quietMode) { index ->
                     val correct = index == exercise.correctIndex
                     val opt = exercise.options[index]
                     answer(mapOf(exercise.targetItemId to correct), opt.text ?: opt.itemId ?: index.toString(), correct, exercise.explanation)
@@ -135,14 +137,14 @@ fun ExerciseHost(
                 is MatchingExercise -> MatchingView(exercise, locked) { results, explanation ->
                     answer(results, "matching", results.values.all { it }, explanation)
                 }
-                is LetterArrangementExercise -> ArrangementView(exercise, locked, quietMode, slowAudio) { typed ->
+                is LetterArrangementExercise -> ArrangementView(exercise, locked, quietMode) { typed ->
                     val correct = typed == exercise.answer
                     answer(mapOf(exercise.targetItemId to correct), typed, correct, exercise.explanation)
                 }
                 is MemoryGameExercise -> MemoryView(exercise) { moves ->
                     answer(emptyMap(), "moves:$moves", true, null)
                 }
-                is ListenAndRepeatExercise -> ListenRepeatView(exercise, slowAudio, locked) {
+                is ListenAndRepeatExercise -> ListenRepeatView(exercise, locked) {
                     answer(emptyMap(), "repeated", true, null)
                 }
             }
@@ -159,7 +161,7 @@ fun ExerciseHost(
 // ------------------------------------------------------------------ choice (picture / word / listening / letters / completion)
 
 @Composable
-private fun ChoiceView(ex: ChoiceExercise, locked: Boolean, quietMode: Boolean, slowAudio: Boolean, onPick: (Int) -> Unit) {
+private fun ChoiceView(ex: ChoiceExercise, locked: Boolean, quietMode: Boolean, onPick: (Int) -> Unit) {
     var picked by remember { mutableStateOf<Int?>(null) }
     val audio = LocalAudioManager.current
 
@@ -183,10 +185,9 @@ private fun ChoiceView(ex: ChoiceExercise, locked: Boolean, quietMode: Boolean, 
             AudioButton(
                 ex.promptAudio,
                 size = if (ex.autoPlayAudio) 84.dp else 60.dp,
-                slow = slowAudio,
                 autoPlayKey = if (ex.autoPlayAudio) ex.id else null,
             )
-            AudioButton(ex.promptAudio, slow = !slowAudio, size = 50.dp)
+            AudioButton(ex.promptAudio, slow = true, size = 50.dp)
         }
     }
 
@@ -340,14 +341,13 @@ private fun ArrangementView(
     ex: LetterArrangementExercise,
     locked: Boolean,
     quietMode: Boolean,
-    slowAudio: Boolean,
     onCheck: (String) -> Unit,
 ) {
     val picked = remember { mutableStateListOf<Int>() }
 
     ContentImage(ex.image, size = 120.dp)
     Text(ex.arabic, style = MaterialTheme.typography.headlineSmall)
-    if (!quietMode) AudioButton(ex.audio, slow = slowAudio, size = 56.dp)
+    if (!quietMode) AudioButton(ex.audio, size = 56.dp)
 
     // Turkish is written left-to-right, so the letter rows are laid out LTR inside the RTL screen.
     CompositionLocalProvider(LocalLayoutDirection provides LayoutDirection.Ltr) {
@@ -485,14 +485,14 @@ private fun MemoryView(ex: MemoryGameExercise, onFinished: (Int) -> Unit) {
 // ------------------------------------------------------------------ listen and repeat
 
 @Composable
-private fun ListenRepeatView(ex: ListenAndRepeatExercise, slowAudio: Boolean, locked: Boolean, onDone: () -> Unit) {
+private fun ListenRepeatView(ex: ListenAndRepeatExercise, locked: Boolean, onDone: () -> Unit) {
     val item = ex.item
     ContentImage(item.image, size = 120.dp)
     TurkishText(item.turkish, style = TurkishStyle.Hero, color = MaterialTheme.colorScheme.secondary)
     Text(item.arabic, style = MaterialTheme.typography.titleLarge)
     Row(horizontalArrangement = Arrangement.spacedBy(16.dp), verticalAlignment = Alignment.CenterVertically) {
-        AudioButton(item.audio, size = 80.dp, slow = slowAudio, autoPlayKey = ex.id)
-        AudioButton(item.audio, size = 52.dp, slow = !slowAudio)
+        AudioButton(item.audio, size = 80.dp, repeat = true, autoPlayKey = ex.id)
+        AudioButton(item.audio, size = 52.dp, slow = true)
     }
     Row(verticalAlignment = Alignment.CenterVertically) {
         LearningCharacter(size = 40.dp, mood = MascotMood.HAPPY, animate = false)

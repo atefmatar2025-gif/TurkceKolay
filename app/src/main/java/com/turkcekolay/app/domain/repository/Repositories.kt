@@ -9,6 +9,7 @@ import com.turkcekolay.app.domain.model.LearnItem
 import com.turkcekolay.app.domain.model.LessonInfo
 import com.turkcekolay.app.domain.model.LessonProgressInfo
 import com.turkcekolay.app.domain.model.LevelInfo
+import com.turkcekolay.app.domain.model.SpeechSpeed
 import com.turkcekolay.app.domain.model.UserSettings
 import kotlinx.coroutines.flow.Flow
 
@@ -60,7 +61,8 @@ interface SettingsRepository {
     suspend fun completeOnboarding(dailyGoalMinutes: Int, quietMode: Boolean)
     suspend fun setDailyGoal(minutes: Int)
     suspend fun setQuietMode(enabled: Boolean)
-    suspend fun setSlowAudio(enabled: Boolean)
+    suspend fun setSpeechSpeed(speed: SpeechSpeed)
+    suspend fun setRepeatCount(count: Int)
     suspend fun setReminders(enabled: Boolean)
     suspend fun setUnlockAll(enabled: Boolean)
     suspend fun contentVersion(): Int

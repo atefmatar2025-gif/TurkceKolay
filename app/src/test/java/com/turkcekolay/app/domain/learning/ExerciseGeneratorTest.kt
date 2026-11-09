@@ -109,6 +109,19 @@ class ExerciseGeneratorTest {
         }
     }
 
+    private fun letter(id: String, upper: String, example: String, emoji: String) =
+        LearnItem(id, ItemKind.LETTER, upper, "حرف $upper", "alphabet", "emoji:$emoji", AudioRef(id, "alphabet", upper.lowercase()), example, "")
+
+    @Test
+    fun `letter picture choices show the example word so a beginner can find the first letter`() {
+        val letters = listOf(letter("l_b", "B", "Balık", "🐟"), letter("l_c", "C", "Ceket", "🧥"), letter("l_d", "D", "Dağ", "⛰️"), letter("l_e", "E", "Ekmek", "🍞"))
+        val ex = ExerciseGenerator(Random(4)).build(letters[0], ExerciseType.PICTURE_SELECTION, letters) as ChoiceExercise
+        assertTrue(ex.options.all { it.label != null })
+        assertEquals("Balık", ex.options[ex.correctIndex].label)
+        // distractors come only from the letters given (the current lesson)
+        assertTrue(ex.options.all { o -> letters.any { it.id == o.itemId } })
+    }
+
     @Test
     fun `same seed gives the same lesson`() {
         val a = ExerciseGenerator(Random(42)).lessonExercises(pool, pool, false)

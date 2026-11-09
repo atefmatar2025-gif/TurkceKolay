@@ -20,6 +20,8 @@ data class ChoiceOption(
     val image: String? = null,
     val isTurkish: Boolean = false,
     val itemId: String? = null,
+    /** Turkish word shown under a picture, first letter highlighted (letter exercises). */
+    val label: String? = null,
 )
 
 sealed interface Exercise {

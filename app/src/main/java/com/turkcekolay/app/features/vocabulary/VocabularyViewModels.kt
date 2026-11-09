@@ -55,7 +55,6 @@ data class WordsUi(
     val defaultModes: Map<String, PresentationMode> = emptyMap(),
     val selectedMode: PresentationMode? = null,
     val quietMode: Boolean = false,
-    val slowAudio: Boolean = false,
     val mode: WordsMode = WordsMode.Browse,
 )
 
@@ -96,7 +95,6 @@ class WordsViewModel @Inject constructor(
             favorites = favs,
             defaultModes = items.associate { it.id to PresentationModePolicy.modeFor(prog[it.id], s.quietMode) },
             quietMode = s.quietMode,
-            slowAudio = s.slowAudioByDefault,
         )
     }
 

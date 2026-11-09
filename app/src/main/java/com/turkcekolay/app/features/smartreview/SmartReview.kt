@@ -207,7 +207,7 @@ fun SmartReviewScreen(onBack: (() -> Unit)? = null, viewModel: SmartReviewViewMo
             val ex = ui?.exercise
             if (ui == null || ex == null) LoadingState()
             else PracticeContent(
-                ex, ui.progress, viewModel.settings.quietMode, viewModel.settings.slowAudioByDefault,
+                ex, ui.progress, viewModel.settings.quietMode,
                 onAnswered = { r, s -> viewModel.answer(r, s) },
                 onContinue = viewModel::next,
                 onClose = viewModel::stop,

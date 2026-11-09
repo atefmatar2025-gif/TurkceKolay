@@ -1,0 +1,390 @@
+# Image and audio credits
+
+Photos: Wikimedia Commons. Recordings: Lingua Libre (Wikimedia Commons).
+Each file keeps its original licence; resized/re-encoded copies are shared under the same licence.
+
+## images
+- **affedersiniz** — [Reporter raising hand at US Army press conference.jpg](https://commons.wikimedia.org/wiki/File:Reporter_raising_hand_at_US_Army_press_conference.jpg) · The U.S. Army . DOD photo by Cherie Cullen (released). · CC BY 2.0
+- **agiz** — [Pink Pout (16795048267).jpg](https://commons.wikimedia.org/wiki/File:Pink_Pout_(16795048267).jpg) · Sharon &amp; Nikki McCutcheon from We live in the United States, we are paying it forward and spreading love worldwide! · CC BY 2.0
+- **aile** — [Pune, Maharashtra, India, Family, Mothers and their children.jpg](https://commons.wikimedia.org/wiki/File:Pune,_Maharashtra,_India,_Family,_Mothers_and_their_children.jpg) · Vyacheslav Argenberg · CC BY 4.0
+- **aksam** — [Sunset 2007-1.jpg](https://commons.wikimedia.org/wiki/File:Sunset_2007-1.jpg) · Alvesgaspar · CC BY-SA 3.0
+- **anahtar** — [Thoreau lock and key.jpg](https://commons.wikimedia.org/wiki/File:Thoreau_lock_and_key.jpg) · Station1 · CC BY-SA 4.0
+- **anlamadim** — [Shrug.jpg](https://commons.wikimedia.org/wiki/File:Shrug.jpg) · User:Dazzledog · Public domain
+- **anne** — [Young mother smiling while holding her baby in Laos.jpg](https://commons.wikimedia.org/wiki/File:Young_mother_smiling_while_holding_her_baby_in_Laos.jpg) · Basile Morin · CC BY-SA 4.0
+- **araba** — [2007 Holden Astra (AH MY07.5) CD 3-door hatchback (2018-10-30) 02.jpg](https://commons.wikimedia.org/wiki/File:2007_Holden_Astra_(AH_MY07.5)_CD_3-door_hatchback_(2018-10-30)_02.jpg) · EurovisionNim · CC BY-SA 4.0
+- **ari** — [European honey bee extracts nectar.jpg](https://commons.wikimedia.org/wiki/File:European_honey_bee_extracts_nectar.jpg) · John Severns (Severnjc) · Public domain
+- **arkadas** — [Two Friends In The Woods.jpg](https://commons.wikimedia.org/wiki/File:Two_Friends_In_The_Woods.jpg) · D. Sharon Pruitt from Hill Air Force Base, Utah, USA · CC BY 2.0
+- **armut** — [D'anjou pear.jpg](https://commons.wikimedia.org/wiki/File:D%27anjou_pear.jpg) · Rhododendrites · CC BY-SA 4.0
+- **asci** — [Chef cooking fish from Lake Malawi.jpg](https://commons.wikimedia.org/wiki/File:Chef_cooking_fish_from_Lake_Malawi.jpg) · AmyAbroad · CC BY-SA 4.0
+- **aslan** — [Lion (Panthera leo) male 6y.jpg](https://commons.wikimedia.org/wiki/File:Lion_(Panthera_leo)_male_6y.jpg) · Charles J. Sharp · CC BY-SA 4.0
+- **at** — [Biandintz eta zaldiak - modified2.jpg](https://commons.wikimedia.org/wiki/File:Biandintz_eta_zaldiak_-_modified2.jpg) · Mikel Ortega from Errenteria, Basque Country, Spain, with a retouche by Richard Bartz. See the original file here. · CC BY-SA 2.0
+- **ay** — [FullMoon2010.jpg](https://commons.wikimedia.org/wiki/File:FullMoon2010.jpg) · Gregory H. Revera · CC BY-SA 3.0
+- **ayak** — [Sole of foot of a two week old Asian infant on a white bed sheet, focus stacking.jpg](https://commons.wikimedia.org/wiki/File:Sole_of_foot_of_a_two_week_old_Asian_infant_on_a_white_bed_sheet,_focus_stacking.jpg) · Basile Morin · CC BY-SA 4.0
+- **ayakkabi** — [Reebok Royal Glide Ripple Clip shoe.jpg](https://commons.wikimedia.org/wiki/File:Reebok_Royal_Glide_Ripple_Clip_shoe.jpg) · Petar Milošević · CC BY-SA 4.0
+- **ayna** — [Mirror.jpg](https://commons.wikimedia.org/wiki/File:Mirror.jpg) · Cgs · CC BY-SA 3.0
+- **ayran** — [Ayran in a beer glass.jpg](https://commons.wikimedia.org/wiki/File:Ayran_in_a_beer_glass.jpg) · E4024 · CC BY-SA 4.0
+- **baba** — [Father with his first baby at first sight.JPG](https://commons.wikimedia.org/wiki/File:Father_with_his_first_baby_at_first_sight.JPG) · Mir Habib Ullah · CC BY-SA 3.0
+- **bahce** — [DSC07729 Sommerblumenschau Pavilion, Flower Gardens Hirschstetten, 2025-07.jpg](https://commons.wikimedia.org/wiki/File:DSC07729_Sommerblumenschau_Pavilion,_Flower_Gardens_Hirschstetten,_2025-07.jpg) · Aciarium · CC BY 4.0
+- **bal** — [Three French monofloral honey jars.jpg](https://commons.wikimedia.org/wiki/File:Three_French_monofloral_honey_jars.jpg) · Hayden Soloviev · CC BY 4.0
+- **balik** — [Pristis pristis - Georgia Aquarium Jan 2006.jpg](https://commons.wikimedia.org/wiki/File:Pristis_pristis_-_Georgia_Aquarium_Jan_2006.jpg) · Diliff · CC BY 2.5
+- **banka** — [London.bankofengland.arp.jpg](https://commons.wikimedia.org/wiki/File:London.bankofengland.arp.jpg) · Adrian Pingstone · Public domain
+- **banyo** — [Bathroom, Interior of apartment in Brisbane, 2025, 08.jpg](https://commons.wikimedia.org/wiki/File:Bathroom,_Interior_of_apartment_in_Brisbane,_2025,_08.jpg) · Chris Olszewski · CC BY-SA 4.0
+- **bebek** — [Yawning Infant, August 2018.jpg](https://commons.wikimedia.org/wiki/File:Yawning_Infant,_August_2018.jpg) · Martin Falbisoner · CC BY-SA 4.0
+- **ben_den** — [Four Different Passports.jpg](https://commons.wikimedia.org/wiki/File:Four_Different_Passports.jpg) · Horizon206 · CC0
+- **benim_adim** — [Caitlin's name badge (2722635443).jpg](https://commons.wikimedia.org/wiki/File:Caitlin%27s_name_badge_(2722635443).jpg) · Nick Gray from New York City, USA · CC BY-SA 2.0
+- **biber** — [Green-Yellow-Red-Pepper-2009.jpg](https://commons.wikimedia.org/wiki/File:Green-Yellow-Red-Pepper-2009.jpg) · Kham Tran - www.khamtran.com · CC BY-SA 3.0
+- **bisiklet** — [Parked bicycle with graffitied building facade and doors in Amsterdam.jpg](https://commons.wikimedia.org/wiki/File:Parked_bicycle_with_graffitied_building_facade_and_doors_in_Amsterdam.jpg) · Basile Morin · CC BY-SA 4.0
+- **bitki_cayi** — [Herbal Tea 02.jpg](https://commons.wikimedia.org/wiki/File:Herbal_Tea_02.jpg) · PagesAndPathsPH · CC0
+- **bulut** — [Cumulus cloud above Lechtaler Alps at tannheim, Austria.jpg](https://commons.wikimedia.org/wiki/File:Cumulus_cloud_above_Lechtaler_Alps_at_tannheim,_Austria.jpg) · Glg · CC BY-SA 2.0 de
+- **burun** — [Human Nose.JPG](https://commons.wikimedia.org/wiki/File:Human_Nose.JPG) · Faceofwiki · Public domain
+- **buyukanne** — [Elderly woman with curly blonde hair smiling while eating a donut with pink frosting.jpg](https://commons.wikimedia.org/wiki/File:Elderly_woman_with_curly_blonde_hair_smiling_while_eating_a_donut_with_pink_frosting.jpg) · Shixart1985 · CC BY 2.0
+- **cami** — [Exterior of Sultan Ahmed I Mosque in Istanbul, Turkey 002.jpg](https://commons.wikimedia.org/wiki/File:Exterior_of_Sultan_Ahmed_I_Mosque_in_Istanbul,_Turkey_002.jpg) · Moonik · CC BY-SA 3.0
+- **canta** — [ANTORINI Executive Leather Briefcase.jpg](https://commons.wikimedia.org/wiki/File:ANTORINI_Executive_Leather_Briefcase.jpg) · Antorini · CC BY-SA 4.0
+- **cay** — [Turkish tea with classical glass.jpg](https://commons.wikimedia.org/wiki/File:Turkish_tea_with_classical_glass.jpg) · eXploration Etoile · CC0
+- **ceket** — [Windbreaker Jacket, Hood Outside.jpg](https://commons.wikimedia.org/wiki/File:Windbreaker_Jacket,_Hood_Outside.jpg) · Ingolfson · Public domain
+- **cetvel** — [Ruler image.jpg](https://commons.wikimedia.org/wiki/File:Ruler_image.jpg) · User:Goele · CC0
+- **ciftci** — [A farmer seeding on his field.jpg](https://commons.wikimedia.org/wiki/File:A_farmer_seeding_on_his_field.jpg) · Evelyn Simak · CC BY-SA 2.0
+- **cilek** — [Garden strawberry (Fragaria × ananassa) single2.jpg](https://commons.wikimedia.org/wiki/File:Garden_strawberry_(Fragaria_%C3%97_ananassa)_single2.jpg) · Ivar Leidus · CC BY-SA 4.0
+- **cocuk** — [Child - Smiling.jpg](https://commons.wikimedia.org/wiki/File:Child_-_Smiling.jpg) · User:Nino Barbieri · CC BY 2.5
+- **corap** — [HandKnittedWhiteLaceSock.jpg](https://commons.wikimedia.org/wiki/File:HandKnittedWhiteLaceSock.jpg) · Loggie-log · Public domain
+- **corba** — [Mercimek çorbasi.jpg](https://commons.wikimedia.org/wiki/File:Mercimek_%C3%A7orbasi.jpg) · E4024 · CC BY-SA 4.0
+- **dag** — [Himalayas, Ama Dablam, Nepal.jpg](https://commons.wikimedia.org/wiki/File:Himalayas,_Ama_Dablam,_Nepal.jpg) · Vyacheslav Argenberg · CC BY 4.0
+- **dakika** — [Ref. 913 HEUER S.A.V.I.C stopwatch.jpg](https://commons.wikimedia.org/wiki/File:Ref._913_HEUER_S.A.V.I.C_stopwatch.jpg) · Ikonicstopwatch · CC BY-SA 4.0
+- **dede** — [Elderly man holding a cat closeup.jpg](https://commons.wikimedia.org/wiki/File:Elderly_man_holding_a_cat_closeup.jpg) · Shixart1985 · CC BY 2.0
+- **defter** — [Notebooks.jpg](https://commons.wikimedia.org/wiki/File:Notebooks.jpg) · L.Marie · CC BY 2.0
+- **ders** — [Grande salle ENC n1.jpg](https://commons.wikimedia.org/wiki/File:Grande_salle_ENC_n1.jpg) · Marie-Lan Nguyen · CC BY 2.5
+- **dinlemek** — [Beautiful girl listening to music with headphones.jpg](https://commons.wikimedia.org/wiki/File:Beautiful_girl_listening_to_music_with_headphones.jpg) · Lars Frantzen · CC BY-SA 4.0
+- **dis** — [Teeth by David Shankbone.jpg](https://commons.wikimedia.org/wiki/File:Teeth_by_David_Shankbone.jpg) · David Shankbone · CC BY-SA 3.0
+- **doktor** — [Female doctor listens to the patient using a stethoscope closeup.jpg](https://commons.wikimedia.org/wiki/File:Female_doctor_listens_to_the_patient_using_a_stethoscope_closeup.jpg) · Shixart1985 · CC BY 2.0
+- **dolap** — [Wardrobe MET DP235302.jpg](https://commons.wikimedia.org/wiki/File:Wardrobe_MET_DP235302.jpg) · Herter Brothers · CC0
+- **domates** — [Tomato je.jpg](https://commons.wikimedia.org/wiki/File:Tomato_je.jpg) · Softeis · CC BY-SA 3.0
+- **dondurma** — [Ice cream cone with spoon.jpg](https://commons.wikimedia.org/wiki/File:Ice_cream_cone_with_spoon.jpg) · Thegreatmutata · CC0
+- **duvar** — [Brick wall close-up view.jpg](https://commons.wikimedia.org/wiki/File:Brick_wall_close-up_view.jpg) · Pawel Wozniak · CC BY-SA 3.0
+- **eczane** — [Rome (Italy), Pharmacy -- 2013 -- 3519.jpg](https://commons.wikimedia.org/wiki/File:Rome_(Italy),_Pharmacy_--_2013_--_3519.jpg) · Dietmar Rabich · CC BY-SA 4.0
+- **ekmek** — [Fresh made bread 05.jpg](https://commons.wikimedia.org/wiki/File:Fresh_made_bread_05.jpg) · FranHogan · CC BY-SA 4.0
+- **el** — [Right Hand Palm.png](https://commons.wikimedia.org/wiki/File:Right_Hand_Palm.png) · Eyefive45 · CC BY-SA 4.0
+- **elbise** — [Dress with circle skirt in the wind - pose 2.jpg](https://commons.wikimedia.org/wiki/File:Dress_with_circle_skirt_in_the_wind_-_pose_2.jpg) · Tobias ToMar Maier · CC BY-SA 3.0
+- **eldiven** — [Leather gloves and ear warmers.jpg](https://commons.wikimedia.org/wiki/File:Leather_gloves_and_ear_warmers.jpg) · Kristin from Oslo, Norway · CC BY 2.0
+- **elma** — [Red Apple.jpg](https://commons.wikimedia.org/wiki/File:Red_Apple.jpg) · Abhijit Tembhekar from Mumbai, India · CC BY 2.0
+- **es** — [Wedding couple at beach bride groom bouquet flowers dress gift (29599967451).jpg](https://commons.wikimedia.org/wiki/File:Wedding_couple_at_beach_bride_groom_bouquet_flowers_dress_gift_(29599967451).jpg) · Personal Creations · CC BY 2.0
+- **et** — [FoodMeat.jpg](https://commons.wikimedia.org/wiki/File:FoodMeat.jpg) · Unknown photographer · Public domain
+- **ev** — [Namibia - Semi-Detached House 02.jpg](https://commons.wikimedia.org/wiki/File:Namibia_-_Semi-Detached_House_02.jpg) · National Heritage Council of Namibia · CC BY 4.0
+- **evet** — [Thumb up.JPG](https://commons.wikimedia.org/wiki/File:Thumb_up.JPG) · Pogrebnoj-Alexandroff · CC BY-SA 3.0
+- **fil** — [Elephant running.jpg](https://commons.wikimedia.org/wiki/File:Elephant_running.jpg) · Byrdyak · CC BY-SA 4.0
+- **gazli_icecek** — [Beverage cans.jpg](https://commons.wikimedia.org/wiki/File:Beverage_cans.jpg) · Oto Zapletal · CC BY-SA 4.0
+- **gece** — [Saint Peter's Basilica, Sant'Angelo bridge, by night, Rome, Italy.jpg](https://commons.wikimedia.org/wiki/File:Saint_Peter%27s_Basilica,_Sant%27Angelo_bridge,_by_night,_Rome,_Italy.jpg) · Jebulon · CC0
+- **gemi** — [Seven Seas Voyager (ship, 2003), Sète 01.jpg](https://commons.wikimedia.org/wiki/File:Seven_Seas_Voyager_(ship,_2003),_S%C3%A8te_01.jpg) · Christian Ferrer · CC BY 4.0
+- **gitmek** — [Young people walking in the street, Hungary 2011.jpg](https://commons.wikimedia.org/wiki/File:Young_people_walking_in_the_street,_Hungary_2011.jpg) · Keymeulen · CC0
+- **gorusuruz** — [Hermandad - friendship.jpg](https://commons.wikimedia.org/wiki/File:Hermandad_-_friendship.jpg) · Rufino · CC BY-SA 2.0
+- **goz** — [Close-up photograph of the eye of a baby with reflection of the scene in the pupil.jpg](https://commons.wikimedia.org/wiki/File:Close-up_photograph_of_the_eye_of_a_baby_with_reflection_of_the_scene_in_the_pupil.jpg) · Basile Morin · CC BY-SA 4.0
+- **gunaydin** — [A foggy winter morning.jpg](https://commons.wikimedia.org/wiki/File:A_foggy_winter_morning.jpg) · Abdul Momin · CC BY-SA 4.0
+- **gunes** — [Shining sun in blue sky of desert with sand cover elgolea city.jpg](https://commons.wikimedia.org/wiki/File:Shining_sun_in_blue_sky_of_desert_with_sand_cover_elgolea_city.jpg) · عبد الرحمان عبد الله · CC BY-SA 4.0
+- **gunesli** — [Havelock Island, Mangrove tree on the beach, Andaman Islands.jpg](https://commons.wikimedia.org/wiki/File:Havelock_Island,_Mangrove_tree_on_the_beach,_Andaman_Islands.jpg) · Vyacheslav Argenberg · CC BY 4.0
+- **hastane** — [Hospital-de-Bellvitge.jpg](https://commons.wikimedia.org/wiki/File:Hospital-de-Bellvitge.jpg) · H501zalc · CC BY-SA 3.0
+- **havalimani** — [199 - Buenos Aires - Aéroport international Ezeiza - Janvier 2010.jpg](https://commons.wikimedia.org/wiki/File:199_-_Buenos_Aires_-_A%C3%A9roport_international_Ezeiza_-_Janvier_2010.jpg) · Martin St-Amant (S23678) · CC BY-SA 3.0
+- **havuc** — [Vegetable-Carrot-Bundle-wStalks.jpg](https://commons.wikimedia.org/wiki/File:Vegetable-Carrot-Bundle-wStalks.jpg) · Evan-Amos · Public domain
+- **hayir** — [Stop Coronavirus COVID-19 in Russia.jpg](https://commons.wikimedia.org/wiki/File:Stop_Coronavirus_COVID-19_in_Russia.jpg) · https://www.vperemen.com · CC BY-SA 4.0
+- **hos_geldiniz** — [Ranson WV Welcome sign 2022-08-07 12-38-43.jpg](https://commons.wikimedia.org/wiki/File:Ranson_WV_Welcome_sign_2022-08-07_12-38-43.jpg) · G. Edward Johnson · CC BY 4.0
+- **hosca_kal** — [US Navy 100601-N-6674H-008 A child waves goodbye as the guided-missile destroyer USS Chung-Hoon (DDG 93) departs on a deployment to the western Pacific Ocean.jpg](https://commons.wikimedia.org/wiki/File:US_Navy_100601-N-6674H-008_A_child_waves_goodbye_as_the_guided-missile_destroyer_USS_Chung-Hoon_(DDG_93)_departs_on_a_deployment_to_the_western_Pacific_Ocean.jpg) · U.S. Navy photo by Mass Communication Specialist 2nd Class Paul D. Honnick · Public domain
+- **icmek** — [Woman sitting on the floor drinking water from a glass in a living room.jpg](https://commons.wikimedia.org/wiki/File:Woman_sitting_on_the_floor_drinking_water_from_a_glass_in_a_living_room.jpg) · Shixart1985 · CC BY 2.0
+- **inek** — [Cow (Fleckvieh breed) Oeschinensee Slaunger 2009-07-07.jpg](https://commons.wikimedia.org/wiki/File:Cow_(Fleckvieh_breed)_Oeschinensee_Slaunger_2009-07-07.jpg) · Kim Hansen · CC BY-SA 3.0
+- **irmak** — [Spiti River Kaza Himachal Jun18 D72 7232.jpg](https://commons.wikimedia.org/wiki/File:Spiti_River_Kaza_Himachal_Jun18_D72_7232.jpg) · This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but please mention me as the author. I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk pag · CC BY-SA 4.0
+- **is** — [Novell people working late 2007.jpg](https://commons.wikimedia.org/wiki/File:Novell_people_working_late_2007.jpg) · Clint Gordon-Carroll · CC BY 2.0
+- **iyi** — [Child gives thumbs up during visit at a doctors office.jpg](https://commons.wikimedia.org/wiki/File:Child_gives_thumbs_up_during_visit_at_a_doctors_office.jpg) · Shixart1985 · CC BY 2.0
+- **iyi_aksamlar** — [Evening lights at the Cathedral - geograph.org.uk - 7906567.jpg](https://commons.wikimedia.org/wiki/File:Evening_lights_at_the_Cathedral_-_geograph.org.uk_-_7906567.jpg) · Alan Reid · CC BY-SA 2.0
+- **iyiyim** — [Image of a smiling man looking at the camera.png](https://commons.wikimedia.org/wiki/File:Image_of_a_smiling_man_looking_at_the_camera.png) · M.sahakyan · CC BY-SA 4.0
+- **jole** — [Rainbow-Jello-Cut-2004-Jul-30.jpg](https://commons.wikimedia.org/wiki/File:Rainbow-Jello-Cut-2004-Jul-30.jpg) · unknown · CC BY-SA 2.5
+- **kahve** — [Turkish coffee in a traditional design cup.jpg](https://commons.wikimedia.org/wiki/File:Turkish_coffee_in_a_traditional_design_cup.jpg) · Garrett Ziegler · CC BY-SA 4.0
+- **kalem** — [Colouring pencils.jpg](https://commons.wikimedia.org/wiki/File:Colouring_pencils.jpg) · MichaelMaggs · CC BY-SA 3.0
+- **kapi** — [Dorfkirche Sanitz (main door), 2025-04-20.jpg](https://commons.wikimedia.org/wiki/File:Dorfkirche_Sanitz_(main_door),_2025-04-20.jpg) · Radomianin · CC BY-SA 4.0
+- **kar** — [Snow Scene at Shipka Pass 1.JPG](https://commons.wikimedia.org/wiki/File:Snow_Scene_at_Shipka_Pass_1.JPG) · Psy guy · CC BY-SA 3.0
+- **kardes** — [Smiling Face.jpg](https://commons.wikimedia.org/wiki/File:Smiling_Face.jpg) · Mahaveer Prasad Takhar · CC BY-SA 4.0
+- **karpuz** — [البطيخ الأحمر.JPG](https://commons.wikimedia.org/wiki/File:%D8%A7%D9%84%D8%A8%D8%B7%D9%8A%D8%AE_%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%B1.JPG) · فارس البلغم · CC BY-SA 3.0
+- **kedi** — [Cat November 2010-1a.jpg](https://commons.wikimedia.org/wiki/File:Cat_November_2010-1a.jpg) · Alvesgaspar · CC BY-SA 3.0
+- **kitap** — [Stack of multicolored books on a table.jpg](https://commons.wikimedia.org/wiki/File:Stack_of_multicolored_books_on_a_table.jpg) · Alexander Grey · CC0
+- **kiz** — [Daughter and mother goals.png](https://commons.wikimedia.org/wiki/File:Daughter_and_mother_goals.png) · Priya dsc · CC BY-SA 4.0
+- **kol** — [Extended arm.jpg](https://commons.wikimedia.org/wiki/File:Extended_arm.jpg) · Genusfotografen (Tomas Gunnarsson) / Wikimedia Sverige · CC BY-SA 4.0
+- **koltuk** — [Sofa MET ADA3269.jpg](https://commons.wikimedia.org/wiki/File:Sofa_MET_ADA3269.jpg) · Auguste Émile Leprince-Ringuet · CC0
+- **konusmak** — [McKenzie Wark Tabakaleran 2.jpg](https://commons.wikimedia.org/wiki/File:McKenzie_Wark_Tabakaleran_2.jpg) · Birasuegi · CC BY-SA 4.0
+- **kopek** — [DSC09611a Search and Rescue Dog, Austrian Red Cross Perchtoldsdorf, 2024-10.jpg](https://commons.wikimedia.org/wiki/File:DSC09611a_Search_and_Rescue_Dog,_Austrian_Red_Cross_Perchtoldsdorf,_2024-10.jpg) · Aciarium · CC BY 4.0
+- **kosmak** — [Speedsuit.jpg](https://commons.wikimedia.org/wiki/File:Speedsuit.jpg) · Chris Hunkeler · CC BY-SA 2.0
+- **koyun** — [Flock of sheep.jpg](https://commons.wikimedia.org/wiki/File:Flock_of_sheep.jpg) · Keith Weller · Public domain
+- **kulak** — [Close up of man's ear.jpg](https://commons.wikimedia.org/wiki/File:Close_up_of_man%27s_ear.jpg) · BIT0865 · CC BY-SA 4.0
+- **kus** — [Small Minivet in Saswad August 2025 by Tisha Mukherjee 01.jpg](https://commons.wikimedia.org/wiki/File:Small_Minivet_in_Saswad_August_2025_by_Tisha_Mukherjee_01.jpg) · Tisha Mukherjee · CC BY-SA 4.0
+- **lamba** — [Lamp with a lampshade illuminated by sunlight.jpg](https://commons.wikimedia.org/wiki/File:Lamp_with_a_lampshade_illuminated_by_sunlight.jpg) · LoMit · CC BY-SA 4.0
+- **limon** — [Lemon.jpg](https://commons.wikimedia.org/wiki/File:Lemon.jpg) · André Karwath aka Aka · CC BY-SA 2.5
+- **limonata** — [Hot Lemon 2.jpg](https://commons.wikimedia.org/wiki/File:Hot_Lemon_2.jpg) · Gaurav Dhwaj Khadka · CC BY-SA 4.0
+- **lutfen** — [Under the ORU Praying Hands sculpture.jpg](https://commons.wikimedia.org/wiki/File:Under_the_ORU_Praying_Hands_sculpture.jpg) · Photo by and ©2004 Dustin M. Ramsey (Kralizec!) · CC BY-SA 2.5
+- **makas** — [Small pair of blue scissors.jpg](https://commons.wikimedia.org/wiki/File:Small_pair_of_blue_scissors.jpg) · ZooFari · CC BY-SA 3.0
+- **market** — [Aisle in L Intermarche supermarket in Quebec City.jpg](https://commons.wikimedia.org/wiki/File:Aisle_in_L_Intermarche_supermarket_in_Quebec_City.jpg) · Wilfredor · CC BY-SA 4.0
+- **maymun** — [Macaque India 3.jpg](https://commons.wikimedia.org/wiki/File:Macaque_India_3.jpg) · Thomas Schoch · CC BY-SA 4.0
+- **merdiven** — [Moscow Hotel National stairway asv2018-09.jpg](https://commons.wikimedia.org/wiki/File:Moscow_Hotel_National_stairway_asv2018-09.jpg) · A.Savin · FAL
+- **merhaba** — [Girl Waves Hello - Polotsk - Vitebsk Oblast - Belarus (27552846901).jpg](https://commons.wikimedia.org/wiki/File:Girl_Waves_Hello_-_Polotsk_-_Vitebsk_Oblast_-_Belarus_(27552846901).jpg) · Adam Jones from Kelowna, BC, Canada · CC BY-SA 2.0
+- **metro** — [Type 1 "Watermelon" Train of Line 2 leaving Yuandong Avenue Station, Shanghai Metro, Aug 11 2023.jpg](https://commons.wikimedia.org/wiki/File:Type_1_%22Watermelon%22_Train_of_Line_2_leaving_Yuandong_Avenue_Station,_Shanghai_Metro,_Aug_11_2023.jpg) · A Chinese ID · CC BY-SA 4.0
+- **meyve_suyu** — [Orange juice 1 edit1.jpg](https://commons.wikimedia.org/wiki/File:Orange_juice_1_edit1.jpg) · Agency of the United States Department of Agriculture Edited Version by: Arad · Public domain
+- **muhendis** — [Hard Hat of the Year (4541501).jpg](https://commons.wikimedia.org/wiki/File:Hard_Hat_of_the_Year_(4541501).jpg) · U.S. Army USACOE-ED by Gwen Bausmith · Public domain
+- **mutfak** — [Home kitchen, New Orleans July 2025.jpg](https://commons.wikimedia.org/wiki/File:Home_kitchen,_New_Orleans_July_2025.jpg) · Infrogmation · CC BY-SA 4.0
+- **muz** — [Bananas on black background 02.jpg](https://commons.wikimedia.org/wiki/File:Bananas_on_black_background_02.jpg) · Krzysztof Golik · CC BY-SA 4.0
+- **nane** — [Mentha sp.001 - A Pobra do Caramiñal.JPG](https://commons.wikimedia.org/wiki/File:Mentha_sp.001_-_A_Pobra_do_Carami%C3%B1al.JPG) · Fernando Losada Rodríguez · CC BY-SA 4.0
+- **nasilsiniz** — [Annette Dubas Cafe.png](https://commons.wikimedia.org/wiki/File:Annette_Dubas_Cafe.png) · NEImport · CC BY-SA 3.0
+- **ofis** — [Doctor working at a desk using a computer mouse and keyboard in a medical office setting.jpg](https://commons.wikimedia.org/wiki/File:Doctor_working_at_a_desk_using_a_computer_mouse_and_keyboard_in_a_medical_office_setting.jpg) · Shixart1985 · CC BY 2.0
+- **ogle** — [Midday Sun - geograph.org.uk - 3301030.jpg](https://commons.wikimedia.org/wiki/File:Midday_Sun_-_geograph.org.uk_-_3301030.jpg) · Anne Burgess · CC BY-SA 2.0
+- **ogrenci** — [African student studying at dormitory from tablet computer,.jpg](https://commons.wikimedia.org/wiki/File:African_student_studying_at_dormitory_from_tablet_computer,.jpg) · Tinsae Belay · CC BY-SA 4.0
+- **ogretmen** — [Teacher on the blackboard.jpg](https://commons.wikimedia.org/wiki/File:Teacher_on_the_blackboard.jpg) · NAMUKWAYA BARBRA · CC BY-SA 4.0
+- **ogul** — [Father and son 27.jpg](https://commons.wikimedia.org/wiki/File:Father_and_son_27.jpg) · No machine-readable author provided. Onkelbo~commonswiki assumed (based on copyright claims). · CC BY-SA 3.0
+- **okul** — [Centennial High School entrance Ellicott City MD 2023-04-02 10-01-46.jpg](https://commons.wikimedia.org/wiki/File:Centennial_High_School_entrance_Ellicott_City_MD_2023-04-02_10-01-46.jpg) · G. Edward Johnson · CC BY 4.0
+- **okumak** — [Senior person reading a book indoors closeup.jpg](https://commons.wikimedia.org/wiki/File:Senior_person_reading_a_book_indoors_closeup.jpg) · Nenad Stojkovic · CC BY 4.0
+- **ordek** — [Male mallard duck 2.jpg](https://commons.wikimedia.org/wiki/File:Male_mallard_duck_2.jpg) · Acarpentier · CC BY 3.0
+- **otel** — [Hotel Ochsen, St. Margrethen (1Y7A2206).jpg](https://commons.wikimedia.org/wiki/File:Hotel_Ochsen,_St._Margrethen_(1Y7A2206).jpg) · Matti Blume · CC BY-SA 4.0
+- **otobus** — [Landskrona City bus 1.jpg](https://commons.wikimedia.org/wiki/File:Landskrona_City_bus_1.jpg) · Barcaviktor25 · CC BY-SA 4.0
+- **ozur_dilerim** — [UAFinallyApologize.png](https://commons.wikimedia.org/wiki/File:UAFinallyApologize.png) · UAFinallyApologize · CC0
+- **pantolon** — [Trousers, reproduction (AM 1999.95.1).jpg](https://commons.wikimedia.org/wiki/File:Trousers,_reproduction_(AM_1999.95.1).jpg) · Karol London · CC BY 4.0
+- **para** — [Turkish Lira Series Banknotes (Modern).png](https://commons.wikimedia.org/wiki/File:Turkish_Lira_Series_Banknotes_(Modern).png) · Randam · Public domain
+- **patates** — [Patates.jpg](https://commons.wikimedia.org/wiki/File:Patates.jpg) · Scott Bauer, USDA ARS · Public domain
+- **patlican** — [Solanum melongena 24 08 2012 (1).JPG](https://commons.wikimedia.org/wiki/File:Solanum_melongena_24_08_2012_(1).JPG) · Joydeep · CC BY-SA 3.0
+- **pencere** — [Fischerkirche (window), Born a. Darß.jpg](https://commons.wikimedia.org/wiki/File:Fischerkirche_(window),_Born_a._Dar%C3%9F.jpg) · Radomianin · CC BY-SA 4.0
+- **peynir** — [White cheese from Turkey.jpg](https://commons.wikimedia.org/wiki/File:White_cheese_from_Turkey.jpg) · E4024 · CC BY-SA 4.0
+- **pilav** — [Bangladeshi Polao 1.jpg](https://commons.wikimedia.org/wiki/File:Bangladeshi_Polao_1.jpg) · Rocky Masum This work was made by Masum-al-Hasan Rocky and released under the license(s) stated below. Please feel free to use it for any purpose as long as you credit Masum-al-Hasan Rocky as author a · CC BY-SA 4.0
+- **polis** — [HH Polizeihauptmeister MZ.jpg](https://commons.wikimedia.org/wiki/File:HH_Polizeihauptmeister_MZ.jpg) · Daniel Schwen · CC BY-SA 2.5
+- **portakal** — [Oranges - whole-halved-segment.jpg](https://commons.wikimedia.org/wiki/File:Oranges_-_whole-halved-segment.jpg) · Ivar Leidus · CC BY-SA 4.0
+- **radyo** — [Old Radio Leb.jpg](https://commons.wikimedia.org/wiki/File:Old_Radio_Leb.jpg) · باسم · CC BY-SA 4.0
+- **restoran** — [Restaurant room of Amantaka luxury Resort & Hotel in Luang Prabang Laos.jpg](https://commons.wikimedia.org/wiki/File:Restaurant_room_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg) · Basile Morin · CC BY-SA 4.0
+- **ruzgar** — [Windy Trees - geograph.org.uk - 323532.jpg](https://commons.wikimedia.org/wiki/File:Windy_Trees_-_geograph.org.uk_-_323532.jpg) · Martin Smith · CC BY-SA 2.0
+- **saat** — [London Big Ben Inner Clock Face 1070925-PSD.jpg](https://commons.wikimedia.org/wiki/File:London_Big_Ben_Inner_Clock_Face_1070925-PSD.jpg) · Ermell · CC BY-SA 4.0
+- **sabah** — [Morning in Langtang.jpg](https://commons.wikimedia.org/wiki/File:Morning_in_Langtang.jpg) · Q-lieb-in · CC BY-SA 4.0
+- **sac** — [Woman with brown hair and back tattoos (cropped).jpg](https://commons.wikimedia.org/wiki/File:Woman_with_brown_hair_and_back_tattoos_(cropped).jpg) · Katie Simmons-Barth Photography from Baltimore, USA · CC BY 2.0
+- **salatalik** — [Cucumber from Denmark.jpg](https://commons.wikimedia.org/wiki/File:Cucumber_from_Denmark.jpg) · WiseMan42 · CC0
+- **sandalye** — [Library Chair dakota jackson.jpg](https://commons.wikimedia.org/wiki/File:Library_Chair_dakota_jackson.jpg) · Dakota Jackson Inc. · CC BY-SA 3.0
+- **sapka** — [Sun Hat hanged on a wall.jpg](https://commons.wikimedia.org/wiki/File:Sun_Hat_hanged_on_a_wall.jpg) · mycurrency.com · CC BY-SA 4.0
+- **sarimsak** — [Garlic bulbs and cloves.jpg](https://commons.wikimedia.org/wiki/File:Garlic_bulbs_and_cloves.jpg) · Ivar Leidus · CC BY-SA 4.0
+- **semsiye** — [Woman sitting under a red umbrella, Alameda Afonso Henriques, Lisbon, Portugal julesvernex2.jpg](https://commons.wikimedia.org/wiki/File:Woman_sitting_under_a_red_umbrella,_Alameda_Afonso_Henriques,_Lisbon,_Portugal_julesvernex2.jpg) · Jules Verne Times Two · CC BY-SA 4.0
+- **sicak** — [Finding refuge from the scorching summer sun (55497189804).jpg](https://commons.wikimedia.org/wiki/File:Finding_refuge_from_the_scorching_summer_sun_(55497189804).jpg) · Alisdare Hickson · CC BY-SA 4.0
+- **sogan** — [Mixed onions.jpg](https://commons.wikimedia.org/wiki/File:Mixed_onions.jpg) · Colin · CC BY-SA 3.0
+- **soguk** — [Young woman in clothes typical for winter.jpg](https://commons.wikimedia.org/wiki/File:Young_woman_in_clothes_typical_for_winter.jpg) · Jamie · CC BY-SA 2.0
+- **su** — [Glass of water, detail.jpg](https://commons.wikimedia.org/wiki/File:Glass_of_water,_detail.jpg) · Mia Gaitanidis · CC BY-SA 4.0
+- **sut** — [Milk bottle and two doughnuts.jpg](https://commons.wikimedia.org/wiki/File:Milk_bottle_and_two_doughnuts.jpg) · www.Pixel.la Free Stock Photos · CC0
+- **taksi** — [TAXI.jpg](https://commons.wikimedia.org/wiki/File:TAXI.jpg) · Petar Milošević · CC BY-SA 4.0
+- **tavsan** — [Lapin blanc.jpg](https://commons.wikimedia.org/wiki/File:Lapin_blanc.jpg) · Fabien1309 · CC BY-SA 3.0
+- **tavuk** — [Max's Roasted Chicken - Evan Swigart.jpg](https://commons.wikimedia.org/wiki/File:Max%27s_Roasted_Chicken_-_Evan_Swigart.jpg) · Evan Swigart from Chicago, USA · CC BY 2.0
+- **tekrar** — [Hand on ear.jpg](https://commons.wikimedia.org/wiki/File:Hand_on_ear.jpg) · JoanDragonfly · CC BY-SA 2.0
+- **telefon** — [Smartphone di varie marche.png](https://commons.wikimedia.org/wiki/File:Smartphone_di_varie_marche.png) · The Tech Cheat · CC BY-SA 4.0
+- **televizyon** — [LG smart TV.jpg](https://commons.wikimedia.org/wiki/File:LG_smart_TV.jpg) · LG전자 · CC BY 2.0
+- **tesekkur** — [Thank you card.png](https://commons.wikimedia.org/wiki/File:Thank_you_card.png) · Jith12 · CC BY-SA 4.0
+- **tisort** — [Ambigram Ideal, polysymmetrical logo printed on a green T-shirt.jpg](https://commons.wikimedia.org/wiki/File:Ambigram_Ideal,_polysymmetrical_logo_printed_on_a_green_T-shirt.jpg) · Basile Morin · CC BY-SA 4.0
+- **top** — [Soccer Ball (46208304925).jpg](https://commons.wikimedia.org/wiki/File:Soccer_Ball_(46208304925).jpg) · Wutthichai Charoenburi from Bangkok · CC BY 2.0
+- **toplanti** — [Sheikh Hasina At Business Advisory Committee Meeting 2024-05-02 (PID-0008830).jpg](https://commons.wikimedia.org/wiki/File:Sheikh_Hasina_At_Business_Advisory_Committee_Meeting_2024-05-02_(PID-0008830).jpg) · Press Information Department · Public domain
+- **tren** — [SNCB Desiro ML (Class AM08 08197) at Antwerp Central Station level -2 platform 22 looking towards the main hall (DSCF4782).jpg](https://commons.wikimedia.org/wiki/File:SNCB_Desiro_ML_(Class_AM08_08197)_at_Antwerp_Central_Station_level_-2_platform_22_looking_towards_the_main_hall_(DSCF4782).jpg) · Trougnouf · CC BY 4.0
+- **ucak** — [Southwest Airlines Airliner over Las Vegas.jpg](https://commons.wikimedia.org/wiki/File:Southwest_Airlines_Airliner_over_Las_Vegas.jpg) · Noah Wulf · CC BY-SA 3.0
+- **uzum** — [BUNCH WINE GRAPES green close up (48986223318).jpg](https://commons.wikimedia.org/wiki/File:BUNCH_WINE_GRAPES_green_close_up_(48986223318).jpg) · Alabama Extension · CC0
+- **vapur** — [Karakoy ferry pier, Istanbul (P1100291).jpg](https://commons.wikimedia.org/wiki/File:Karakoy_ferry_pier,_Istanbul_(P1100291).jpg) · Matti Blume · CC BY-SA 4.0
+- **yagmur** — [Rain drops falling on my car (38355395042).jpg](https://commons.wikimedia.org/wiki/File:Rain_drops_falling_on_my_car_(38355395042).jpg) · Carlos Ebert from São Paulo, BrazilGRU · CC BY 2.0
+- **yatak** — [Canopy bed of Amantaka Suite in Amantaka luxury Resort & Hotel in Luang Prabang Laos.jpg](https://commons.wikimedia.org/wiki/File:Canopy_bed_of_Amantaka_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg) · Basile Morin · CC BY-SA 4.0
+- **yavas** — [Common snail.jpg](https://commons.wikimedia.org/wiki/File:Common_snail.jpg) · macrophile on Flickr · CC BY 2.0
+- **yazmak** — [Man writing on paper (Unsplash).jpg](https://commons.wikimedia.org/wiki/File:Man_writing_on_paper_(Unsplash).jpg) · Olu Eletu flenjoore · CC0
+- **yemek** — [A roast lamb dinner at Black Horse Inn, Nuthurst West Sussex England.jpg](https://commons.wikimedia.org/wiki/File:A_roast_lamb_dinner_at_Black_Horse_Inn,_Nuthurst_West_Sussex_England.jpg) · Acabashi · CC BY-SA 4.0
+- **yumurta** — [Egg cartons with chicken eggs 03.jpg](https://commons.wikimedia.org/wiki/File:Egg_cartons_with_chicken_eggs_03.jpg) · Krzysztof Golik · CC BY-SA 4.0
+- **zurafa** — [Three giraffes 01.jpg](https://commons.wikimedia.org/wiki/File:Three_giraffes_01.jpg) · Byrdyak · CC BY-SA 4.0
+
+## audio
+- **l_a_ex** — [LL-Q256 (tur)-ToprakM-arı.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-ar%C4%B1.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **l_b_ex** — [LL-Q256 (tur)-ToprakM-balık.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-bal%C4%B1k.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **l_c_ex** — [LL-Q256 (tur)-ToprakM-ceket.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-ceket.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY 4.0
+- **l_ch_ex** — [LL-Q256 (tur)-ToprakM-çay.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-%C3%A7ay.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **l_d_ex** — [LL-Q256 (tur)-ToprakM-dondurma.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-dondurma.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **l_e_ex** — [LL-Q256 (tur)-ToprakM-ekmek.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-ekmek.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **l_f_ex** — [LL-Q256 (tur)-ToprakM-fil.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-fil.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **l_g_ex** — [LL-Q256 (tur)-ToprakM-gemi.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-gemi.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **l_gh_ex** — [LL-Q256 (tur)-ToprakM-dağ.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-da%C4%9F.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **l_h_ex** — [LL-Q256 (tur)-ToprakM-havuç.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-havu%C3%A7.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **l_i_dotless_ex** — [LL-Q256 (tur)-ToprakM-ırmak.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-%C4%B1rmak.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **l_j_ex** — [LL-Q256 (tur)-ToprakM-jöle.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-j%C3%B6le.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY 4.0
+- **l_k_ex** — [LL-Q256 (tur)-ToprakM-kedi.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-kedi.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **l_l_ex** — [LL-Q256 (tur)-ToprakM-limon.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-limon.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **l_m_ex** — [LL-Q256 (tur)-ToprakM-muz.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-muz.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **l_n_ex** — [LL-Q256 (tur)-ToprakM-nane.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-nane.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY 4.0
+- **l_o_ex** — [LL-Q256 (tur)-ToprakM-okul.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-okul.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **l_oe_ex** — [LL-Q256 (tur)-ToprakM-ördek.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-%C3%B6rdek.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **l_p_ex** — [LL-Q256 (tur)-ToprakM-peynir.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-peynir.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **l_r_ex** — [LL-Q256 (tur)-ToprakM-radyo.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-radyo.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY 4.0
+- **l_s_ex** — [LL-Q256 (tur)-ToprakM-su.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-su.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **l_sh_ex** — [LL-Q256 (tur)-ToprakM-şapka.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-%C5%9Fapka.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **l_t_ex** — [LL-Q256 (tur)-ToprakM-top.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-top.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **l_u_ex** — [LL-Q256 (tur)-ToprakM-uçak.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-u%C3%A7ak.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **l_ue_ex** — [LL-Q256 (tur)-ToprakM-üzüm.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-%C3%BCz%C3%BCm.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **l_v_ex** — [LL-Q256 (tur)-Veravi95-vapur.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-Veravi95-vapur.wav) · Speaker: Veravi95 Recorder: Veravi95 · CC0
+- **l_y_ex** — [LL-Q256 (tur)-ToprakM-yumurta.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-yumurta.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **l_z_ex** — [LL-Q256 (tur)-ToprakM-zürafa.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-z%C3%BCrafa.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_affedersiniz** — [LL-Q256 (tur)-Veravi95-affedersiniz.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-Veravi95-affedersiniz.wav) · Speaker: Veravi95 Recorder: Veravi95 · CC0
+- **w_agiz** — [LL-Q256 (tur)-ToprakM-ağız.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-a%C4%9F%C4%B1z.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_aile** — [LL-Q256 (tur)-ToprakM-aile.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-aile.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_aksam** — [LL-Q256 (tur)-ToprakM-akşam.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-ak%C5%9Fam.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_alti** — [LL-Q256 (tur)-ToprakM-altı.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-alt%C4%B1.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_anahtar** — [LL-Q256 (tur)-ToprakM-anahtar.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-anahtar.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_anne** — [LL-Q256 (tur)-ToprakM-anne.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-anne.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_araba** — [LL-Q256 (tur)-ToprakM-araba.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-araba.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_arkadas** — [LL-Q256 (tur)-ToprakM-arkadaş.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-arkada%C5%9F.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_armut** — [LL-Q256 (tur)-ToprakM-armut.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-armut.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_asci** — [LL-Q256 (tur)-ToprakM-aşçı.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-a%C5%9F%C3%A7%C4%B1.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY 4.0
+- **w_aslan** — [LL-Q256 (tur)-ToprakM-aslan.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-aslan.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_at** — [LL-Q256 (tur)-ToprakM-at.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-at.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_ay** — [LL-Q256 (tur)-ToprakM-ay.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-ay.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_ayak** — [LL-Q256 (tur)-ToprakM-ayak.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-ayak.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_ayakkabi** — [LL-Q256 (tur)-ToprakM-ayakkabı.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-ayakkab%C4%B1.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_ayna** — [LL-Q256 (tur)-ToprakM-ayna.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-ayna.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_ayran** — [LL-Q256 (tur)-ToprakM-ayran.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-ayran.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY 4.0
+- **w_baba** — [LL-Q256 (tur)-ToprakM-baba.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-baba.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_bahce** — [LL-Q256 (tur)-ToprakM-bahçe.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-bah%C3%A7e.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_bal** — [LL-Q256 (tur)-ToprakM-bal.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-bal.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_balik** — [LL-Q256 (tur)-ToprakM-balık.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-bal%C4%B1k.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_banka** — [LL-Q256 (tur)-ToprakM-banka.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-banka.wav) · Speaker: ToprakM Recorder: ToprakM · CC0
+- **w_banyo** — [LL-Q256 (tur)-ToprakM-banyo.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-banyo.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY 4.0
+- **w_bebek** — [LL-Q256 (tur)-ToprakM-bebek.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-bebek.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_bes** — [LL-Q256 (tur)-ToprakM-beş.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-be%C5%9F.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_beyaz** — [LL-Q256 (tur)-ToprakM-beyaz.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-beyaz.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_biber** — [LL-Q256 (tur)-ToprakM-biber.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-biber.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_bir** — [LL-Q256 (tur)-ToprakM-bir.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-bir.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_bisiklet** — [LL-Q256 (tur)-ToprakM-bisiklet.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-bisiklet.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_bugun** — [LL-Q256 (tur)-ToprakM-bugün.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-bug%C3%BCn.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_bulut** — [LL-Q256 (tur)-ToprakM-bulut.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-bulut.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_burun** — [LL-Q256 (tur)-ToprakM-burun.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-burun.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_buyukanne** — [LL-Q256 (tur)-ToprakM-büyükanne.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-b%C3%BCy%C3%BCkanne.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY 4.0
+- **w_cami** — [LL-Q256 (tur)-ToprakM-cami.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-cami.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_canta** — [LL-Q256 (tur)-ToprakM-çanta.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-%C3%A7anta.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY 4.0
+- **w_carsamba** — [LL-Q256 (tur)-MustafaCavlak-çarşamba.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-MustafaCavlak-%C3%A7ar%C5%9Famba.wav) · Speaker: MustafaCavlak Recorder: MustafaCavlak · CC BY-SA 4.0
+- **w_cay** — [LL-Q256 (tur)-ToprakM-çay.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-%C3%A7ay.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_ceket** — [LL-Q256 (tur)-ToprakM-ceket.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-ceket.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY 4.0
+- **w_cetvel** — [LL-Q256 (tur)-ToprakM-cetvel.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-cetvel.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY 4.0
+- **w_ciftci** — [LL-Q256 (tur)-Veravi95-çiftçi.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-Veravi95-%C3%A7ift%C3%A7i.wav) · Speaker: Veravi95 Recorder: Veravi95 · CC0
+- **w_cilek** — [LL-Q256 (tur)-ToprakM-çilek.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-%C3%A7ilek.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_cocuk** — [LL-Q256 (tur)-ToprakM-çocuk.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-%C3%A7ocuk.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_corap** — [LL-Q256 (tur)-ToprakM-çorap.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-%C3%A7orap.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_corba** — [LL-Q256 (tur)-ToprakM-çorba.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-%C3%A7orba.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_cuma** — [LL-Q256 (tur)-MustafaCavlak-cuma.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-MustafaCavlak-cuma.wav) · Speaker: MustafaCavlak Recorder: MustafaCavlak · CC BY-SA 4.0
+- **w_dakika** — [LL-Q256 (tur)-ToprakM-dakika.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-dakika.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_dede** — [LL-Q256 (tur)-ToprakM-dede.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-dede.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY 4.0
+- **w_defter** — [LL-Q256 (tur)-ToprakM-defter.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-defter.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY 4.0
+- **w_ders** — [LL-Q256 (tur)-ToprakM-ders.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-ders.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY 4.0
+- **w_dinlemek** — [LL-Q256 (tur)-ToprakM-dinlemek.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-dinlemek.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY 4.0
+- **w_dis** — [LL-Q256 (tur)-ToprakM-diş.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-di%C5%9F.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_doktor** — [LL-Q256 (tur)-ToprakM-doktor.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-doktor.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY 4.0
+- **w_dokuz** — [LL-Q256 (tur)-ToprakM-dokuz.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-dokuz.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_dolap** — [LL-Q256 (tur)-ToprakM-dolap.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-dolap.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY 4.0
+- **w_domates** — [LL-Q256 (tur)-ToprakM-domates.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-domates.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_dort** — [LL-Q256 (tur)-ToprakM-dört.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-d%C3%B6rt.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_duvar** — [LL-Q256 (tur)-ToprakM-duvar.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-duvar.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_eczane** — [LL-Q256 (tur)-ToprakM-eczane.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-eczane.wav) · Speaker: ToprakM Recorder: ToprakM · CC0
+- **w_ekmek** — [LL-Q256 (tur)-ToprakM-ekmek.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-ekmek.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_el** — [LL-Q256 (tur)-ToprakM-el.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-el.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_elbise** — [LL-Q256 (tur)-Veravi95-elbise.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-Veravi95-elbise.wav) · Speaker: Veravi95 Recorder: Veravi95 · CC0
+- **w_eldiven** — [LL-Q256 (tur)-ToprakM-eldiven.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-eldiven.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY 4.0
+- **w_elma** — [LL-Q256 (tur)-ToprakM-elma.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-elma.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_es** — [LL-Q256 (tur)-ToprakM-eş.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-e%C5%9F.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY 4.0
+- **w_et** — [LL-Q256 (tur)-ToprakM-et.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-et.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_ev** — [LL-Q256 (tur)-ToprakM-ev.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-ev.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_evet** — [LL-Q256 (tur)-ToprakM-evet.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-evet.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_fil** — [LL-Q256 (tur)-ToprakM-fil.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-fil.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_gece** — [LL-Q256 (tur)-ToprakM-gece.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-gece.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_gemi** — [LL-Q256 (tur)-ToprakM-gemi.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-gemi.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_gitmek** — [LL-Q256 (tur)-ToprakM-gitmek.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-gitmek.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_goz** — [LL-Q256 (tur)-ToprakM-göz.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-g%C3%B6z.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_gunaydin** — [LL-Q256 (tur)-ToprakM-günaydın.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-g%C3%BCnayd%C4%B1n.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY 4.0
+- **w_gunes** — [LL-Q256 (tur)-ToprakM-güneş.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-g%C3%BCne%C5%9F.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_gunesli** — [LL-Q256 (tur)-ToprakM-güneşli.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-g%C3%BCne%C5%9Fli.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY 4.0
+- **w_hastane** — [LL-Q256 (tur)-ToprakM-hastane.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-hastane.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_havalimani** — [LL-Q256 (tur)-ToprakM-havalimanı.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-havaliman%C4%B1.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY 4.0
+- **w_havuc** — [LL-Q256 (tur)-ToprakM-havuç.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-havu%C3%A7.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_hayir** — [LL-Q256 (tur)-ToprakM-hayır.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-hay%C4%B1r.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY 4.0
+- **w_hosca_kal** — [LL-Q256 (tur)-ToprakM-hoşça kal.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-ho%C5%9F%C3%A7a_kal.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY 4.0
+- **w_kahve** — [LL-Q256 (tur)-ToprakM-kahve.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-kahve.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_kalem** — [LL-Q256 (tur)-ToprakM-kalem.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-kalem.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_kapi** — [LL-Q256 (tur)-ToprakM-kapı.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-kap%C4%B1.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_kar** — [LL-Q256 (tur)-ToprakM-kar.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-kar.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_kardes** — [LL-Q256 (tur)-ToprakM-kardeş.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-karde%C5%9F.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_karpuz** — [LL-Q256 (tur)-ToprakM-karpuz.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-karpuz.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_kedi** — [LL-Q256 (tur)-ToprakM-kedi.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-kedi.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_kirmizi** — [LL-Q256 (tur)-ToprakM-kırmızı.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-k%C4%B1rm%C4%B1z%C4%B1.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_kitap** — [LL-Q256 (tur)-ToprakM-kitap.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-kitap.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_kol** — [LL-Q256 (tur)-ToprakM-kol.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-kol.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_koltuk** — [LL-Q256 (tur)-ToprakM-koltuk.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-koltuk.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY 4.0
+- **w_konusmak** — [LL-Q256 (tur)-ToprakM-konuşmak.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-konu%C5%9Fmak.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_kopek** — [LL-Q256 (tur)-ToprakM-köpek.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-k%C3%B6pek.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_kosmak** — [LL-Q256 (tur)-ToprakM-koşmak.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-ko%C5%9Fmak.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY 4.0
+- **w_koyun** — [LL-Q256 (tur)-ToprakM-koyun.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-koyun.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_kus** — [LL-Q256 (tur)-ToprakM-kuş.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-ku%C5%9F.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_lamba** — [LL-Q256 (tur)-ToprakM-lamba.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-lamba.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY 4.0
+- **w_limon** — [LL-Q256 (tur)-ToprakM-limon.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-limon.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_limonata** — [LL-Q256 (tur)-Veravi95-limonata.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-Veravi95-limonata.wav) · Speaker: Veravi95 Recorder: Veravi95 · CC0
+- **w_lutfen** — [LL-Q256 (tur)-Veravi95-lütfen.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-Veravi95-l%C3%BCtfen.wav) · Speaker: Veravi95 Recorder: Veravi95 · CC0
+- **w_makas** — [LL-Q256 (tur)-ToprakM-makas.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-makas.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_mavi** — [LL-Q256 (tur)-ToprakM-mavi.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-mavi.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_maymun** — [LL-Q256 (tur)-ToprakM-maymun.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-maymun.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_merdiven** — [LL-Q256 (tur)-ToprakM-merdiven.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-merdiven.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY 4.0
+- **w_merhaba** — [LL-Q256 (tur)-ToprakM-merhaba.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-merhaba.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY 4.0
+- **w_metro** — [LL-Q256 (tur)-Veravi95-metro.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-Veravi95-metro.wav) · Speaker: Veravi95 Recorder: Veravi95 · CC0
+- **w_meyve_suyu** — [LL-Q256 (tur)-ToprakM-meyve suyu.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-meyve_suyu.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY 4.0
+- **w_mor** — [LL-Q256 (tur)-Veravi95-mor.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-Veravi95-mor.wav) · Speaker: Veravi95 Recorder: Veravi95 · CC0
+- **w_muhendis** — [LL-Q256 (tur)-ToprakM-mühendis.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-m%C3%BChendis.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY 4.0
+- **w_mutfak** — [LL-Q256 (tur)-ToprakM-mutfak.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-mutfak.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_muz** — [LL-Q256 (tur)-ToprakM-muz.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-muz.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_nasilsiniz** — [LL-Q256 (tur)-Kurmanbek-Nasılsınız.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-Kurmanbek-Nas%C4%B1ls%C4%B1n%C4%B1z.wav) · Speaker: Kurmanbek Recorder: Kurmanbek · CC0
+- **w_ofis** — [LL-Q256 (tur)-Veravi95-ofis.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-Veravi95-ofis.wav) · Speaker: Veravi95 Recorder: Veravi95 · CC0
+- **w_ogle** — [LL-Q256 (tur)-Veravi95-öğle.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-Veravi95-%C3%B6%C4%9Fle.wav) · Speaker: Veravi95 Recorder: Veravi95 · CC0
+- **w_ogrenci** — [LL-Q256 (tur)-ToprakM-öğrenci.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-%C3%B6%C4%9Frenci.wav) · Speaker: ToprakM Recorder: ToprakM · CC0
+- **w_ogretmen** — [LL-Q256 (tur)-ToprakM-öğretmen.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-%C3%B6%C4%9Fretmen.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_ogul** — [LL-Q256 (tur)-ToprakM-oğul.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-o%C4%9Ful.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_okul** — [LL-Q256 (tur)-ToprakM-okul.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-okul.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_okumak** — [LL-Q256 (tur)-ToprakM-okumak.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-okumak.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_on** — [LL-Q256 (tur)-ToprakM-on.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-on.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_otel** — [LL-Q256 (tur)-ToprakM-otel.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-otel.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_otobus** — [LL-Q256 (tur)-ToprakM-otobüs.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-otob%C3%BCs.wav) · Speaker: ToprakM Recorder: ToprakM · CC0
+- **w_pantolon** — [LL-Q256 (tur)-ToprakM-pantolon.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-pantolon.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY 4.0
+- **w_para** — [LL-Q256 (tur)-ToprakM-para.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-para.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_patates** — [LL-Q256 (tur)-ToprakM-patates.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-patates.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_patlican** — [LL-Q256 (tur)-ToprakM-patlıcan.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-patl%C4%B1can.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_pazar** — [LL-Q256 (tur)-MustafaCavlak-pazar.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-MustafaCavlak-pazar.wav) · Speaker: MustafaCavlak Recorder: MustafaCavlak · CC BY-SA 4.0
+- **w_pencere** — [LL-Q256 (tur)-ToprakM-pencere.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-pencere.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_persembe** — [LL-Q256 (tur)-MustafaCavlak-perşembe.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-MustafaCavlak-per%C5%9Fembe.wav) · Speaker: MustafaCavlak Recorder: MustafaCavlak · CC BY-SA 4.0
+- **w_peynir** — [LL-Q256 (tur)-ToprakM-peynir.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-peynir.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_pilav** — [LL-Q256 (tur)-Veravi95-pilav.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-Veravi95-pilav.wav) · Speaker: Veravi95 Recorder: Veravi95 · CC0
+- **w_polis** — [LL-Q256 (tur)-ToprakM-polis.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-polis.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY 4.0
+- **w_portakal** — [LL-Q256 (tur)-ToprakM-portakal.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-portakal.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_restoran** — [LL-Q256 (tur)-Veravi95-restoran.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-Veravi95-restoran.wav) · Speaker: Veravi95 Recorder: Veravi95 · CC0
+- **w_ruzgar** — [LL-Q256 (tur)-ToprakM-rüzgâr.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-r%C3%BCzg%C3%A2r.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_saat** — [LL-Q256 (tur)-ToprakM-saat.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-saat.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_sabah** — [LL-Q256 (tur)-ToprakM-sabah.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-sabah.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_sac** — [LL-Q256 (tur)-ToprakM-saç.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-sa%C3%A7.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_salatalik** — [LL-Q256 (tur)-ToprakM-salatalık.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-salatal%C4%B1k.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY 4.0
+- **w_sali** — [LL-Q256 (tur)-MustafaCavlak-salı.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-MustafaCavlak-sal%C4%B1.wav) · Speaker: MustafaCavlak Recorder: MustafaCavlak · CC BY-SA 4.0
+- **w_sandalye** — [LL-Q256 (tur)-ToprakM-sandalye.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-sandalye.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_sapka** — [LL-Q256 (tur)-ToprakM-şapka.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-%C5%9Fapka.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_sari** — [LL-Q256 (tur)-ToprakM-sarı.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-sar%C4%B1.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_sarimsak** — [LL-Q256 (tur)-ToprakM-sarımsak.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-sar%C4%B1msak.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_sekiz** — [LL-Q256 (tur)-ToprakM-sekiz.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-sekiz.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_semsiye** — [LL-Q256 (tur)-ToprakM-şemsiye.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-%C5%9Femsiye.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_sicak** — [LL-Q256 (tur)-ToprakM-sıcak.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-s%C4%B1cak.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_siyah** — [LL-Q256 (tur)-ToprakM-siyah.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-siyah.wav) · Speaker: ToprakM Recorder: ToprakM · CC0
+- **w_sogan** — [LL-Q256 (tur)-ToprakM-soğan.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-so%C4%9Fan.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_soguk** — [LL-Q256 (tur)-ToprakM-soğuk.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-so%C4%9Fuk.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_su** — [LL-Q256 (tur)-ToprakM-su.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-su.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_sut** — [LL-Q256 (tur)-ToprakM-süt.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-s%C3%BCt.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_taksi** — [LL-Q256 (tur)-ToprakM-taksi.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-taksi.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY 4.0
+- **w_tavsan** — [LL-Q256 (tur)-ToprakM-tavşan.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-tav%C5%9Fan.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_tavuk** — [LL-Q256 (tur)-ToprakM-tavuk.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-tavuk.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_telefon** — [LL-Q256 (tur)-ToprakM-telefon.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-telefon.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_televizyon** — [LL-Q256 (tur)-ToprakM-televizyon.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-televizyon.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_tesekkur** — [LL-Q256 (tur)-Veravi95-teşekkür ederim.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-Veravi95-te%C5%9Fekk%C3%BCr_ederim.wav) · Speaker: Veravi95 Recorder: Veravi95 · CC0
+- **w_tisort** — [LL-Q256 (tur)-Yağız Kart-tişört.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-Ya%C4%9F%C4%B1z_Kart-ti%C5%9F%C3%B6rt.wav) · Speaker: Yağız Kart Recorder: Yağız Kart · CC0
+- **w_tren** — [LL-Q256 (tur)-ToprakM-tren.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-tren.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_turuncu** — [LL-Q256 (tur)-ToprakM-turuncu.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-turuncu.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY 4.0
+- **w_uc** — [LL-Q256 (tur)-ToprakM-üç.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-%C3%BC%C3%A7.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_ucak** — [LL-Q256 (tur)-ToprakM-uçak.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-u%C3%A7ak.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_uyumak** — [LL-Q256 (tur)-ToprakM-uyumak.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-uyumak.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_uzum** — [LL-Q256 (tur)-ToprakM-üzüm.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-%C3%BCz%C3%BCm.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_yagmur** — [LL-Q256 (tur)-ToprakM-yağmur.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-ya%C4%9Fmur.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_yarin** — [LL-Q256 (tur)-ToprakM-yarın.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-yar%C4%B1n.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY 4.0
+- **w_yatak** — [LL-Q256 (tur)-ToprakM-yatak.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-yatak.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_yazmak** — [LL-Q256 (tur)-ToprakM-yazmak.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-yazmak.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_yedi** — [LL-Q256 (tur)-ToprakM-yedi.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-yedi.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_yemek** — [LL-Q256 (tur)-ToprakM-yemek.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-yemek.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_yesil** — [LL-Q256 (tur)-ToprakM-yeşil.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-ye%C5%9Fil.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0
+- **w_yumurta** — [LL-Q256 (tur)-ToprakM-yumurta.wav](https://commons.wikimedia.org/wiki/File:LL-Q256_(tur)-ToprakM-yumurta.wav) · Speaker: ToprakM Recorder: ToprakM · CC BY-SA 4.0

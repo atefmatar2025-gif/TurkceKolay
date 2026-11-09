@@ -58,7 +58,9 @@ class ContentValidationTest {
         val ids = (alphabet.letters.map { it.id } + vocabulary.items.map { it.id } + sentences.items.map { it.id }).toSet()
         val convs = conversations.conversations.map { it.id }.toSet()
         lessons.levels.flatMap { it.modules }.flatMap { it.lessons }.forEach { l ->
-            if (l.type == "CONVERSATION") {
+            if (l.type == "ALPHABET_INTRO") {
+                assertEquals(29, l.items.size)
+            } else if (l.type == "CONVERSATION") {
                 assertTrue(l.id, l.conversationId in convs)
             } else {
                 assertTrue("${l.id} size ${l.items.size}", l.items.size in 3..8)

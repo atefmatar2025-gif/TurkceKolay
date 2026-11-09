@@ -42,6 +42,7 @@ import com.turkcekolay.app.core.designsystem.SecondaryButton
 import com.turkcekolay.app.core.designsystem.TkCard
 import com.turkcekolay.app.core.designsystem.TkColors
 import com.turkcekolay.app.core.designsystem.TkTopBar
+import com.turkcekolay.app.domain.model.SpeechSpeed
 import com.turkcekolay.app.domain.model.UserSettings
 import com.turkcekolay.app.domain.repository.ProgressRepository
 import com.turkcekolay.app.domain.repository.SettingsRepository
@@ -67,7 +68,8 @@ class SettingsViewModel @Inject constructor(
 
     fun setGoal(m: Int) = viewModelScope.launch { settings.setDailyGoal(m) }
     fun setQuiet(v: Boolean) = viewModelScope.launch { settings.setQuietMode(v) }
-    fun setSlow(v: Boolean) = viewModelScope.launch { settings.setSlowAudio(v) }
+    fun setSpeed(v: SpeechSpeed) = viewModelScope.launch { settings.setSpeechSpeed(v) }
+    fun setRepeat(v: Int) = viewModelScope.launch { settings.setRepeatCount(v) }
     fun setUnlockAll(v: Boolean) = viewModelScope.launch { settings.setUnlockAll(v) }
     fun setReminders(v: Boolean) = viewModelScope.launch {
         settings.setReminders(v)
@@ -77,7 +79,7 @@ class SettingsViewModel @Inject constructor(
 }
 
 @Composable
-fun SettingsScreen(viewModel: SettingsViewModel = hiltViewModel()) {
+fun SettingsScreen(onOpenCredits: () -> Unit = {}, viewModel: SettingsViewModel = hiltViewModel()) {
     val s by viewModel.state.collectAsStateWithLifecycle()
     val tts by viewModel.ttsStatus.collectAsStateWithLifecycle()
     val context = LocalContext.current
@@ -102,7 +104,6 @@ fun SettingsScreen(viewModel: SettingsViewModel = hiltViewModel()) {
             TkCard(Modifier.fillMaxWidth()) {
                 Column(Modifier.padding(horizontal = 16.dp, vertical = 8.dp)) {
                     ToggleRow("وضع التعلّم الهادئ", "بدون تشغيل صوت تلقائي وبدون تمارين استماع", s.quietMode, viewModel::setQuiet)
-                    ToggleRow("الصوت البطيء افتراضيًا", "للتمييز بين الأصوات المتقاربة", s.slowAudioByDefault, viewModel::setSlow)
                     ToggleRow("تذكير يومي بالمراجعة", "إشعار لطيف عند وجود كلمات للمراجعة", s.remindersEnabled) { enabled ->
                         if (enabled && Build.VERSION.SDK_INT >= 33) notificationPermission.launch(Manifest.permission.POST_NOTIFICATIONS)
                         else viewModel.setReminders(enabled)
@@ -113,6 +114,18 @@ fun SettingsScreen(viewModel: SettingsViewModel = hiltViewModel()) {
             TkCard(Modifier.fillMaxWidth()) {
                 Column(Modifier.padding(16.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
                     Text("الصوت", style = MaterialTheme.typography.titleMedium)
+                    Text("سرعة النطق", style = MaterialTheme.typography.bodyLarge)
+                    Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+                        SpeechSpeed.entries.forEach { sp ->
+                            FilterChip(selected = s.speechSpeed == sp, onClick = { viewModel.setSpeed(sp) }, label = { Text(sp.label) })
+                        }
+                    }
+                    Text("تكرار الكلمة في البطاقات", style = MaterialTheme.typography.bodyLarge)
+                    Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+                        listOf(1 to "مرة", 2 to "مرتان", 3 to "3 مرات").forEach { (n, label) ->
+                            FilterChip(selected = s.repeatCount == n, onClick = { viewModel.setRepeat(n) }, label = { Text(label) })
+                        }
+                    }
                     val (label, ok) = when (tts) {
                         TtsStatus.READY -> "الصوت التركي (TTS) جاهز ✅" to true
                         TtsStatus.INITIALIZING -> "جارٍ تجهيز الصوت التركي…" to true
@@ -138,11 +151,12 @@ fun SettingsScreen(viewModel: SettingsViewModel = hiltViewModel()) {
                 Column(Modifier.padding(16.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
                     Text("البيانات", style = MaterialTheme.typography.titleMedium)
                     Text("يُحفظ تقدّمك على هذا الجهاز فقط. لا حاجة لإنشاء حساب.", style = MaterialTheme.typography.bodyMedium)
+                    TextButton(onClick = onOpenCredits) { Text("مصادر الصور والأصوات") }
                     TextButton(onClick = { confirmReset = true }) { Text("مسح كل التقدّم", color = TkColors.Gentle) }
                 }
             }
             Text(
-                "Türkçe Kolay ${BuildConfig.VERSION_NAME} · الصور الحالية رموز تعبيرية من خط النظام، وسيتم استبدالها برسوم موحّدة مرخّصة.",
+                "Türkçe Kolay ${BuildConfig.VERSION_NAME} · صور حقيقية من Wikimedia Commons وتسجيلات ناطقين أصليين من Lingua Libre.",
                 style = MaterialTheme.typography.bodySmall,
                 color = MaterialTheme.colorScheme.onSurfaceVariant,
             )

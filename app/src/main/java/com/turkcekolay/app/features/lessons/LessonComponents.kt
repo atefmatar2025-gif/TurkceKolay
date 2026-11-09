@@ -43,6 +43,7 @@ import com.turkcekolay.app.core.designsystem.TurkishStyle
 import com.turkcekolay.app.core.designsystem.TurkishText
 import com.turkcekolay.app.core.designsystem.VocabularyCard
 import com.turkcekolay.app.core.designsystem.FavoriteButton
+import com.turkcekolay.app.core.designsystem.HighlightedWord
 import com.turkcekolay.app.domain.model.ItemKind
 import com.turkcekolay.app.domain.model.LearnItem
 import com.turkcekolay.app.domain.model.PresentationMode
@@ -117,7 +118,7 @@ fun LetterCard(item: LearnItem, isFavorite: Boolean, onToggleFavorite: () -> Uni
                 TurkishText("${item.turkish} ${item.turkishLower}", style = TurkishStyle.Hero.copy(fontSize = TurkishStyle.Hero.fontSize * 1.6f), color = MaterialTheme.colorScheme.secondary)
             }
             Row(horizontalArrangement = Arrangement.spacedBy(16.dp), verticalAlignment = Alignment.CenterVertically) {
-                AudioButton(item.audio, size = 64.dp, autoPlayKey = if (autoPlay) item.id else null)
+                AudioButton(item.audio, size = 64.dp, autoPlayKey = if (autoPlay) item.id else null, repeat = true)
                 AudioButton(item.audio, slow = true, size = 52.dp)
             }
             item.hintArabic?.let {
@@ -130,19 +131,7 @@ fun LetterCard(item: LearnItem, isFavorite: Boolean, onToggleFavorite: () -> Uni
                 }
             }
             if (item.exampleTurkish != null) {
-                Box(
-                    Modifier.fillMaxWidth().aspectRatio(2.2f).background(MaterialTheme.colorScheme.surfaceVariant, RoundedCornerShape(20.dp)),
-                    contentAlignment = Alignment.Center,
-                ) {
-                    Row(verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.spacedBy(16.dp)) {
-                        ContentImage(item.image, size = 90.dp)
-                        Column(horizontalAlignment = Alignment.CenterHorizontally) {
-                            TurkishText(item.exampleTurkish, style = TurkishStyle.Large)
-                            Text(item.exampleArabic.orEmpty(), style = MaterialTheme.typography.titleMedium)
-                        }
-                        item.exampleAudio?.let { AudioButton(it, size = 44.dp) }
-                    }
-                }
+                LetterExample(item)
             }
             item.note?.let {
                 Row(verticalAlignment = Alignment.Top) {
@@ -152,6 +141,22 @@ fun LetterCard(item: LearnItem, isFavorite: Boolean, onToggleFavorite: () -> Uni
                 }
             }
         }
+    }
+}
+
+/** Picture of the example word, the word with its first letter highlighted, and its meaning. */
+@Composable
+fun LetterExample(item: LearnItem, imageHeight: androidx.compose.ui.unit.Dp = 200.dp) {
+    Column(horizontalAlignment = Alignment.CenterHorizontally, verticalArrangement = Arrangement.spacedBy(6.dp)) {
+        Box(
+            Modifier.fillMaxWidth().height(imageHeight).background(MaterialTheme.colorScheme.surfaceVariant, RoundedCornerShape(20.dp)),
+            contentAlignment = Alignment.Center,
+        ) { ContentImage(item.image, size = imageHeight * 0.7f, fill = !item.image.startsWith("emoji:")) }
+        Row(verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.spacedBy(12.dp)) {
+            HighlightedWord(item.exampleTurkish.orEmpty(), style = TurkishStyle.Hero, color = MaterialTheme.colorScheme.secondary)
+            item.exampleAudio?.let { AudioButton(it, size = 48.dp) }
+        }
+        Text("= ${item.exampleArabic.orEmpty()}", style = MaterialTheme.typography.headlineSmall)
     }
 }
 

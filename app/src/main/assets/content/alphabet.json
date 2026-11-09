@@ -1,5 +1,5 @@
 {
- "contentVersion": 1,
+ "contentVersion": 2,
  "letters": [
   {
    "id": "l_a",
@@ -8,7 +8,7 @@
    "hintAr": "قريب من الفتحة المفتوحة (آ قصيرة)",
    "exampleTr": "Arı",
    "exampleAr": "نحلة",
-   "image": "emoji:🐝",
+   "image": "images/vocab/ari.webp",
    "isSpecial": false,
    "note": null
   },
@@ -19,7 +19,7 @@
    "hintAr": "مثل الباء",
    "exampleTr": "Balık",
    "exampleAr": "سمكة",
-   "image": "emoji:🐟",
+   "image": "images/vocab/balik.webp",
    "isSpecial": false,
    "note": null
   },
@@ -30,7 +30,7 @@
    "hintAr": "مثل الجيم الفصيحة (j في الإنجليزية) — وليس مثل حرف c في الإنجليزية",
    "exampleTr": "Ceket",
    "exampleAr": "سترة",
-   "image": "emoji:🧥",
+   "image": "images/vocab/ceket.webp",
    "isSpecial": false,
    "note": "تنبيه: C في التركية تُنطق «ج» دائمًا."
   },
@@ -41,7 +41,7 @@
    "hintAr": "مثل «تش» (ch في الإنجليزية)",
    "exampleTr": "Çay",
    "exampleAr": "شاي",
-   "image": "emoji:🍵",
+   "image": "images/vocab/cay.webp",
    "isSpecial": true,
    "note": "لاحظ الذيل الصغير تحت الحرف: C = ج ، Ç = تش."
   },
@@ -52,7 +52,7 @@
    "hintAr": "مثل الدال",
    "exampleTr": "Dondurma",
    "exampleAr": "بوظة (آيس كريم)",
-   "image": "emoji:🍦",
+   "image": "images/vocab/dondurma.webp",
    "isSpecial": false,
    "note": null
   },
@@ -63,7 +63,7 @@
    "hintAr": "صوت بين الفتحة والكسرة (e في كلمة bed)",
    "exampleTr": "Ekmek",
    "exampleAr": "خبز",
-   "image": "emoji:🍞",
+   "image": "images/vocab/ekmek.webp",
    "isSpecial": false,
    "note": null
   },
@@ -74,7 +74,7 @@
    "hintAr": "مثل الفاء",
    "exampleTr": "Fil",
    "exampleAr": "فيل",
-   "image": "emoji:🐘",
+   "image": "images/vocab/fil.webp",
    "isSpecial": false,
    "note": null
   },
@@ -85,7 +85,7 @@
    "hintAr": "مثل الجيم المصرية (g في الإنجليزية)",
    "exampleTr": "Gemi",
    "exampleAr": "سفينة",
-   "image": "emoji:🚢",
+   "image": "images/vocab/gemi.webp",
    "isSpecial": false,
    "note": null
   },
@@ -96,7 +96,7 @@
    "hintAr": "لا يُنطق كحرف مستقل؛ يُطيل الصوت المتحرك الذي قبله",
    "exampleTr": "Dağ",
    "exampleAr": "جبل",
-   "image": "emoji:⛰️",
+   "image": "images/vocab/dag.webp",
    "isSpecial": true,
    "note": "Ğ لا تأتي في أول الكلمة أبدًا. في «Dağ» نمدّ صوت a قليلًا: «داا»."
   },
@@ -107,7 +107,7 @@
    "hintAr": "مثل الهاء",
    "exampleTr": "Havuç",
    "exampleAr": "جزرة",
-   "image": "emoji:🥕",
+   "image": "images/vocab/havuc.webp",
    "isSpecial": false,
    "note": null
   },
@@ -118,7 +118,7 @@
    "hintAr": "صوت قصير لا يوجد في العربية: بين الكسرة والضمة، والشفتان غير مستديرتين",
    "exampleTr": "Irmak",
    "exampleAr": "نهر",
-   "image": "emoji:🏞️",
+   "image": "images/vocab/irmak.webp",
    "isSpecial": true,
    "note": "حرف I بلا نقطة، وصغيره ı بلا نقطة أيضًا. لا تخلطه مع İ / i."
   },
@@ -129,7 +129,7 @@
    "hintAr": "مثل الكسرة الطويلة «إي»",
    "exampleTr": "İnek",
    "exampleAr": "بقرة",
-   "image": "emoji:🐄",
+   "image": "images/vocab/inek.webp",
    "isSpecial": true,
    "note": "حرف İ بنقطة حتى في الحرف الكبير، وصغيره i. النقطة تغيّر المعنى: kız (بنت) غير kiz."
   },
@@ -140,7 +140,7 @@
    "hintAr": "مثل j في الفرنسية (جيم معطّشة كما في garage)",
    "exampleTr": "Jöle",
    "exampleAr": "هلام (جيلي)",
-   "image": "emoji:🍮",
+   "image": "images/vocab/jole.webp",
    "isSpecial": false,
    "note": null
   },
@@ -151,7 +151,7 @@
    "hintAr": "مثل الكاف",
    "exampleTr": "Kedi",
    "exampleAr": "قطة",
-   "image": "emoji:🐱",
+   "image": "images/vocab/kedi.webp",
    "isSpecial": false,
    "note": null
   },
@@ -162,7 +162,7 @@
    "hintAr": "مثل اللام",
    "exampleTr": "Limon",
    "exampleAr": "ليمون",
-   "image": "emoji:🍋",
+   "image": "images/vocab/limon.webp",
    "isSpecial": false,
    "note": null
   },
@@ -173,7 +173,7 @@
    "hintAr": "مثل الميم",
    "exampleTr": "Muz",
    "exampleAr": "موز",
-   "image": "emoji:🍌",
+   "image": "images/vocab/muz.webp",
    "isSpecial": false,
    "note": null
   },
@@ -184,7 +184,7 @@
    "hintAr": "مثل النون",
    "exampleTr": "Nane",
    "exampleAr": "نعناع",
-   "image": "emoji:🌿",
+   "image": "images/vocab/nane.webp",
    "isSpecial": false,
    "note": null
   },
@@ -195,7 +195,7 @@
    "hintAr": "«أو» قصيرة والشفتان مستديرتان",
    "exampleTr": "Okul",
    "exampleAr": "مدرسة",
-   "image": "emoji:🏫",
+   "image": "images/vocab/okul.webp",
    "isSpecial": false,
    "note": null
   },
@@ -206,7 +206,7 @@
    "hintAr": "لا يوجد في العربية: اللسان كما في e والشفتان مستديرتان كما في o",
    "exampleTr": "Ördek",
    "exampleAr": "بطة",
-   "image": "emoji:🦆",
+   "image": "images/vocab/ordek.webp",
    "isSpecial": true,
    "note": "النقطتان فوق O تغيّران الصوت والمعنى: on (عشرة) غير ön (أمام)."
   },
@@ -217,7 +217,7 @@
    "hintAr": "مثل p في الإنجليزية (ليس الباء)",
    "exampleTr": "Peynir",
    "exampleAr": "جبن",
-   "image": "emoji:🧀",
+   "image": "images/vocab/peynir.webp",
    "isSpecial": false,
    "note": "P غير B: أخرج نفَسًا خفيفًا مع P."
   },
@@ -228,7 +228,7 @@
    "hintAr": "مثل الراء لكن أخف",
    "exampleTr": "Radyo",
    "exampleAr": "راديو",
-   "image": "emoji:📻",
+   "image": "images/vocab/radyo.webp",
    "isSpecial": false,
    "note": null
   },
@@ -239,7 +239,7 @@
    "hintAr": "مثل السين",
    "exampleTr": "Su",
    "exampleAr": "ماء",
-   "image": "emoji:💧",
+   "image": "images/vocab/su.webp",
    "isSpecial": false,
    "note": null
   },
@@ -250,7 +250,7 @@
    "hintAr": "مثل الشين",
    "exampleTr": "Şapka",
    "exampleAr": "قبعة",
-   "image": "emoji:👒",
+   "image": "images/vocab/sapka.webp",
    "isSpecial": true,
    "note": "S = س ، Ş = ش. الذيل الصغير هو الفرق."
   },
@@ -261,7 +261,7 @@
    "hintAr": "مثل التاء",
    "exampleTr": "Top",
    "exampleAr": "كرة",
-   "image": "emoji:⚽",
+   "image": "images/vocab/top.webp",
    "isSpecial": false,
    "note": null
   },
@@ -272,7 +272,7 @@
    "hintAr": "«أُو» قصيرة (ضمة) والشفتان مستديرتان",
    "exampleTr": "Uçak",
    "exampleAr": "طائرة",
-   "image": "emoji:✈️",
+   "image": "images/vocab/ucak.webp",
    "isSpecial": false,
    "note": null
   },
@@ -283,7 +283,7 @@
    "hintAr": "لا يوجد في العربية: اللسان كما في i والشفتان مستديرتان",
    "exampleTr": "Üzüm",
    "exampleAr": "عنب",
-   "image": "emoji:🍇",
+   "image": "images/vocab/uzum.webp",
    "isSpecial": true,
    "note": "U غير Ü: un (طحين) غير ün (شهرة)."
   },
@@ -294,7 +294,7 @@
    "hintAr": "مثل v في الإنجليزية (ليس الفاء)",
    "exampleTr": "Vapur",
    "exampleAr": "عبّارة",
-   "image": "emoji:⛴️",
+   "image": "images/vocab/vapur.webp",
    "isSpecial": false,
    "note": null
   },
@@ -305,7 +305,7 @@
    "hintAr": "مثل الياء في «يد»",
    "exampleTr": "Yumurta",
    "exampleAr": "بيضة",
-   "image": "emoji:🥚",
+   "image": "images/vocab/yumurta.webp",
    "isSpecial": false,
    "note": null
   },
@@ -316,7 +316,7 @@
    "hintAr": "مثل الزاي",
    "exampleTr": "Zürafa",
    "exampleAr": "زرافة",
-   "image": "emoji:🦒",
+   "image": "images/vocab/zurafa.webp",
    "isSpecial": false,
    "note": null
   }

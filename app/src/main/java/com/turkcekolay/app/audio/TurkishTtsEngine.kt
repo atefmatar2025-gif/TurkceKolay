@@ -3,10 +3,15 @@ package com.turkcekolay.app.audio
 import android.content.Context
 import android.content.Intent
 import android.speech.tts.TextToSpeech
+import android.speech.tts.UtteranceProgressListener
 import com.turkcekolay.app.domain.model.TURKISH
+import kotlinx.coroutines.CompletableDeferred
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
+import kotlinx.coroutines.withTimeoutOrNull
+import java.util.concurrent.ConcurrentHashMap
+import java.util.concurrent.atomic.AtomicInteger
 
 enum class TtsStatus {
     INITIALIZING,
@@ -30,6 +35,8 @@ class TurkishTtsEngine(context: Context) {
     val status: StateFlow<TtsStatus> = _status.asStateFlow()
 
     private var tts: TextToSpeech? = null
+    private val waiting = ConcurrentHashMap<String, CompletableDeferred<Unit>>()
+    private val counter = AtomicInteger()
 
     /** True when at least one installed (offline) Turkish voice exists. */
     var hasOfflineTurkishVoice: Boolean = false
@@ -53,6 +60,14 @@ class TurkishTtsEngine(context: Context) {
 
     private fun configure() {
         val engine = tts ?: return
+        engine.setOnUtteranceProgressListener(object : UtteranceProgressListener() {
+            override fun onStart(utteranceId: String?) = Unit
+            override fun onDone(utteranceId: String?) { utteranceId?.let { waiting.remove(it)?.complete(Unit) } }
+            @Deprecated("Deprecated in Java")
+            override fun onError(utteranceId: String?) { utteranceId?.let { waiting.remove(it)?.complete(Unit) } }
+            override fun onError(utteranceId: String?, errorCode: Int) { utteranceId?.let { waiting.remove(it)?.complete(Unit) } }
+            override fun onStop(utteranceId: String?, interrupted: Boolean) { utteranceId?.let { waiting.remove(it)?.complete(Unit) } }
+        })
         val result = runCatching { engine.setLanguage(TURKISH) }.getOrDefault(TextToSpeech.LANG_NOT_SUPPORTED)
         _status.value = when (result) {
             TextToSpeech.LANG_MISSING_DATA -> TtsStatus.MISSING_DATA
@@ -73,16 +88,27 @@ class TurkishTtsEngine(context: Context) {
         }
     }
 
-    fun speak(text: String, slow: Boolean): Boolean {
+    /** Speaks [text] at [rate] and suspends until it finishes. Returns false if it could not speak. */
+    suspend fun speakAndAwait(text: String, rate: Float): Boolean {
         val engine = tts ?: return false
         if (_status.value != TtsStatus.READY) return false
-        engine.setSpeechRate(if (slow) SLOW_RATE else NORMAL_RATE)
-        val result = engine.speak(text, TextToSpeech.QUEUE_FLUSH, null, "tk_${text.hashCode()}")
-        return result == TextToSpeech.SUCCESS
+        val id = "tk_${counter.incrementAndGet()}"
+        val done = CompletableDeferred<Unit>()
+        waiting[id] = done
+        engine.setSpeechRate(rate)
+        if (engine.speak(text, TextToSpeech.QUEUE_FLUSH, null, id) != TextToSpeech.SUCCESS) {
+            waiting.remove(id)
+            return false
+        }
+        withTimeoutOrNull(15_000L) { done.await() }
+        waiting.remove(id)
+        return true
     }
 
     fun stop() {
         tts?.stop()
+        waiting.values.forEach { it.complete(Unit) }
+        waiting.clear()
     }
 
     /** Re-checks after the learner returns from installing voice data. */
@@ -94,9 +120,4 @@ class TurkishTtsEngine(context: Context) {
     /** Intent that opens the system screen for downloading TTS voice data. */
     fun installVoiceIntent(): Intent =
         Intent(TextToSpeech.Engine.ACTION_INSTALL_TTS_DATA).addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
-
-    companion object {
-        const val NORMAL_RATE = 0.9f
-        const val SLOW_RATE = 0.6f
-    }
 }

@@ -10,7 +10,7 @@ enum class CategoryGroup { ALPHABET, FIRST_WORDS, EXPRESSIONS, EVERYDAY, SENTENC
 
 enum class LearningState { NEW, LEARNING, REVIEW, MASTERED }
 
-enum class LessonType { ALPHABET, VOCABULARY, EXPRESSIONS, SENTENCES, CONVERSATION }
+enum class LessonType { ALPHABET_INTRO, ALPHABET, VOCABULARY, EXPRESSIONS, SENTENCES, CONVERSATION }
 
 enum class LessonStatus { NOT_STARTED, IN_PROGRESS, COMPLETED }
 
@@ -145,10 +145,19 @@ data class UserSettings(
     val onboardingCompleted: Boolean = false,
     val dailyGoalMinutes: Int = 10,
     val quietMode: Boolean = false,
-    val slowAudioByDefault: Boolean = false,
+    val speechSpeed: SpeechSpeed = SpeechSpeed.SLOW,
+    /** How many times a word is said on learning cards (1–3). */
+    val repeatCount: Int = 3,
     val remindersEnabled: Boolean = false,
     val unlockAllLevels: Boolean = false,
 )
+
+/** Pronunciation speed. Beginners start slow; recordings are never stretched below 0.7×. */
+enum class SpeechSpeed(val label: String, val ttsRate: Float, val recordingSpeed: Float) {
+    VERY_SLOW("بطيء جدًا", 0.5f, 0.75f),
+    SLOW("بطيء", 0.65f, 0.85f),
+    NORMAL("عادي", 0.9f, 1f),
+}
 
 enum class PresentationMode(val label: String, val description: String) {
     A("أ", "صورة + تركي + عربي"),

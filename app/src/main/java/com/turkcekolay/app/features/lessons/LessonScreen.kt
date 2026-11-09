@@ -8,6 +8,7 @@ import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import com.turkcekolay.app.core.designsystem.EmptyState
 import com.turkcekolay.app.core.designsystem.LoadingState
 import com.turkcekolay.app.core.designsystem.PrimaryButton
+import com.turkcekolay.app.features.alphabet.AlphabetTourContent
 import com.turkcekolay.app.features.exercises.PracticeContent
 
 @Composable
@@ -21,8 +22,14 @@ fun LessonScreen(onClose: () -> Unit, viewModel: LessonViewModel = hiltViewModel
     when (val phase = state.phase) {
         LessonPhase.Loading -> LoadingState()
         is LessonPhase.Error -> EmptyState("عذرًا", phase.message, action = { PrimaryButton("رجوع", onClose) })
+        LessonPhase.Tour -> AlphabetTourContent(
+            letters = state.items,
+            quietMode = state.settings.quietMode,
+            onClose = onClose,
+            onFinished = viewModel::finishTour,
+        )
         is LessonPhase.Learn -> LearnCardsContent(
-            title = state.lesson?.title.orEmpty(),
+            title = "الخطوة 1 من 2: تعرّف · ${state.lesson?.title.orEmpty()}",
             items = state.items,
             index = phase.index,
             favorites = favorites,
@@ -40,7 +47,7 @@ fun LessonScreen(onClose: () -> Unit, viewModel: LessonViewModel = hiltViewModel
                 exercise = exercise,
                 progress = ui.progress,
                 quietMode = state.settings.quietMode,
-                slowAudio = state.settings.slowAudioByDefault,
+                header = "الخطوة 2 من 2: تدرّب",
                 onAnswered = { results, selected -> viewModel.answer(results, selected) },
                 onContinue = viewModel::next,
                 onClose = onClose,

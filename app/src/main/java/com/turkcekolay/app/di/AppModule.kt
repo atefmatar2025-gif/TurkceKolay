@@ -61,8 +61,8 @@ object AppModule {
     @Provides @Singleton fun scheduler(): SpacedRepetitionScheduler = SpacedRepetitionScheduler()
 
     @Provides @Singleton
-    fun audioManager(@ApplicationContext context: Context): AudioManager =
-        AudioManager(AudioRepository(context), RecordedAudioPlayer(context), TurkishTtsEngine(context))
+    fun audioManager(@ApplicationContext context: Context, settings: SettingsRepository): AudioManager =
+        AudioManager(AudioRepository(context), RecordedAudioPlayer(context), TurkishTtsEngine(context), settings.settings)
 
     @Provides @Singleton
     fun aiProvider(json: Json): AiProvider {

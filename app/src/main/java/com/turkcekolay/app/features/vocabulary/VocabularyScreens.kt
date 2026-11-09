@@ -87,7 +87,7 @@ fun WordsScreen(onBack: () -> Unit, viewModel: WordsViewModel = hiltViewModel())
             val exercise = ui?.exercise
             if (ui != null && exercise != null) {
                 PracticeContent(
-                    exercise, ui.progress, state.quietMode, state.slowAudio,
+                    exercise, ui.progress, state.quietMode,
                     onAnswered = { r, s -> viewModel.answer(r, s) },
                     onContinue = viewModel::next,
                     onClose = viewModel::stopPractice,
