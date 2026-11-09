@@ -10,6 +10,7 @@ on:
       - 'tools/assets/manifest.py'
       - 'tools/assets/fetch_assets.py'
       - 'tools/assets/refetch.json'
+      - 'tools/assets/selected.json'
 
 permissions:
   contents: write
@@ -29,7 +30,10 @@ jobs:
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
       - name: Fetch
         run: |
-          if [ -f tools/assets/refetch.json ]; then
+          if [ -f tools/assets/selected.json ]; then
+            python tools/assets/fetch_assets.py --out "$RUNNER_TEMP/candidates" --content app/src/main/assets/content --final tools/assets/selected.json
+            echo "BRANCH=asset-final" >> "$GITHUB_ENV"
+          elif [ -f tools/assets/refetch.json ]; then
             python tools/assets/fetch_assets.py --out "$RUNNER_TEMP/candidates" --content app/src/main/assets/content --refetch tools/assets/refetch.json
             echo "BRANCH=asset-candidates-2" >> "$GITHUB_ENV"
           else

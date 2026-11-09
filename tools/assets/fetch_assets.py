@@ -124,6 +124,27 @@ def refetch_images(out, queries):
         json.dump(result, f, ensure_ascii=False, indent=1)
 
 
+def final_images(out, selected):
+    """Downloads the reviewed choice for each concept (concept -> Commons file title) at 720 px."""
+    from PIL import Image
+    os.makedirs(os.path.join(out, "images"), exist_ok=True)
+    info = imageinfo(list(selected.values()), width=720)
+    result = {}
+    for c, title in selected.items():
+        m = info.get(title)
+        if not usable(m):
+            print("  missing", c, title, file=sys.stderr)
+            continue
+        data = get(m["url"], binary=True)
+        if not data:
+            continue
+        Image.open(io.BytesIO(data)).convert("RGB").save(os.path.join(out, "images", f"{c}.jpg"), quality=92)
+        result[c] = m
+    print("final images:", len(result), "of", len(selected), flush=True)
+    with open(os.path.join(out, "images.json"), "w", encoding="utf-8") as f:
+        json.dump(result, f, ensure_ascii=False, indent=1)
+
+
 def fetch_images(out):
     os.makedirs(os.path.join(out, "images"), exist_ok=True)
     from PIL import Image
@@ -253,8 +274,11 @@ if __name__ == "__main__":
     ap.add_argument("--out", required=True)
     ap.add_argument("--content", required=True)
     ap.add_argument("--refetch", help="JSON file: concept -> list of search queries (images only)")
+    ap.add_argument("--final", help="JSON file: concept -> chosen Commons file title")
     a = ap.parse_args()
-    if a.refetch:
+    if a.final:
+        final_images(a.out, json.load(open(a.final, encoding="utf-8")))
+    elif a.refetch:
         refetch_images(a.out, json.load(open(a.refetch, encoding="utf-8")))
     else:
         fetch_audio(a.out, a.content)
